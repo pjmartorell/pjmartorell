@@ -25,7 +25,12 @@ jobs:
         with:
           max_attempts: 10
           timeout_minutes: 1
-          command: curl -o assets/contributions.svg "https://github-readme-streak-stats.herokuapp.com/?user=pjmartorell&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true&border_radius=6&card_width=300"
+          command: |
+            curl -o assets/contributions.svg "https://github-readme-streak-stats.herokuapp.com/?user=pjmartorell&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true&border_radius=6&card_width=300"
+            if grep -q "Failed" assets/contributions.svg; then
+              echo "Error: Failed to fetch contributions.svg"
+              exit 1
+            fi
 
       - name: Fetch Top Languages SVG
         uses: nick-fields/retry@v3
