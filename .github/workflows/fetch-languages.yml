@@ -1,0 +1,36 @@
+# This GitHub Action is needed to fetch and cache the GitHub languages SVG daily.
+# The SVG is fetched from an external service that sometimes returns a 503 (Service Unavailable) error.
+# By caching the SVG in the repository, we ensure that the stats are always available and up-to-date.
+
+name: Fetch GitHub Languages SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  fetch-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Top Languages SVG
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 1
+          timeout_minutes: 10
+          command: curl -o assets/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=pjmartorell&layout=compact&theme=dark&bg_color=00000000&border_radius=6&include_all_commits=true&card_width=300"
+
+      - name: Commit and push SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/languages.svg
+          git commit -m 'Update GitHub Languages SVG'
+          git push

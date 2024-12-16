@@ -1,9 +1,9 @@
-# This GitHub Action is needed to fetch and cache GitHub stats SVGs daily.
-# The SVGs are fetched from external services that sometimes return a 503 (Service Unavailable) error.
-# By caching the SVGs in the repository, we ensure that the stats are always available and up-to-date.
+# This GitHub Action is needed to fetch and cache the GitHub contributions SVG daily.
+# The SVG is fetched from an external service that sometimes returns a 503 (Service Unavailable) error.
+# By caching the SVG in the repository, we ensure that the stats are always available and up-to-date.
 # Additionally, the action checks if the fetched contributions.svg contains the string "Failed" and retries if necessary.
 
-name: Fetch GitHub Stats SVGs
+name: Fetch GitHub Contributions SVG
 
 on:
   schedule:
@@ -14,7 +14,7 @@ on:
   workflow_dispatch: # Allows manual triggering
 
 jobs:
-  fetch-svgs:
+  fetch-contributions:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,17 +33,10 @@ jobs:
               exit 1
             fi
 
-      - name: Fetch Top Languages SVG
-        uses: nick-fields/retry@v3
-        with:
-          max_attempts: 1
-          timeout_minutes: 10
-          command: curl -o assets/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=pjmartorell&layout=compact&theme=dark&bg_color=00000000&border_radius=6&include_all_commits=true&card_width=300"
-
-      - name: Commit and push SVGs
+      - name: Commit and push SVG
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add assets/contributions.svg assets/languages.svg
-          git commit -m 'Update GitHub Stats SVGs'
+          git add assets/contributions.svg
+          git commit -m 'Update GitHub Contributions SVG'
           git push
