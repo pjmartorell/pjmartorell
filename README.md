@@ -67,7 +67,7 @@ Tools and technologies I've played with..
 ## 🦾 An inspirational random geeky quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ⭐ Last 20 Starred Repositories
+## ⭐ Last 30 Starred Repositories
 
 | Repository | Description |
 |------------|-------------|

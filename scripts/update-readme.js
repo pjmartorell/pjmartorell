@@ -14,7 +14,7 @@ async function updateReadme(repos) {
   const table = `${tableHeader}\n${tableRows}`;
 
   let readmeContent = fs.readFileSync('README.md', 'utf8');
-  const newContent = readmeContent.replace(/## ⭐ Last 20 Starred Repositories[\s\S]*/, `## ⭐ Last 20 Starred Repositories\n\n${table}`);
+  const newContent = readmeContent.replace(/## ⭐ Last 30 Starred Repositories[\s\S]*/, `## ⭐ Last 30 Starred Repositories\n\n${table}`);
   fs.writeFileSync('README.md', newContent);
 }
 
