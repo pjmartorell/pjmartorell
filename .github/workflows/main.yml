@@ -40,6 +40,7 @@ jobs:
             if grep -q "Failed" assets/contributions.svg; then
               echo "Error: Failed to fetch contributions.svg"
               exit 1
+            fi
 
       - name: Commit and push SVG
         run: |
@@ -51,6 +52,7 @@ jobs:
             git push
           else
             echo "No changes to commit"
+          fi
 
   fetch-languages:
     runs-on: ubuntu-latest
@@ -76,6 +78,7 @@ jobs:
             git push
           else
             echo "No changes to commit"
+          fi
 
   fetch-starred-repos:
     runs-on: ubuntu-latest
@@ -109,3 +112,4 @@ jobs:
             git push
           else
             echo "No changes to commit"
+          fi
