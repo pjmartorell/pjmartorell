@@ -3,6 +3,9 @@ name: Update README with Starred Repositories
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
