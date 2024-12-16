@@ -61,10 +61,8 @@ Tools and technologies I've played with..
 [![EspressIf](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
 
 ## 📊 Some irrelevant GitHub stats
-<a href="https://www.linkedin.com/in/pjmartorell/" style="text-decoration: none;">
-  <img height="160em" src="./assets/languages.svg">
-  <img height="160em" src="./assets/contributions.svg">
-</a>
+<a href="https://www.linkedin.com/in/pjmartorell/"><img src="./assets/languages.svg" width="300px" height="164px" alt="Languages"></a>
+<a href="https://www.linkedin.com/in/pjmartorell/"><img src="./assets/contributions.svg" width="300px" height="164px" alt="Contributions"></a>
 
 ## 🦾 An inspirational random geeky quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
