@@ -62,7 +62,7 @@ Tools and technologies I've played with..
 
 ## 📊 Some irrelevant GitHub stats
 <a href="https://www.linkedin.com/in/pjmartorell/"><img src="./assets/languages.svg" width="300px" height="164px" alt="Languages"></a>
-<a href="https://www.linkedin.com/in/pjmartorell/"><img src="./assets/contributions.svg" width="300px" height="164px" alt="Contributions"></a>
+<a href="https://www.linkedin.com/in/pjmartorell/"><img src="./assets/contributions.svg" height="164px" alt="Contributions"></a>
 
 ## 🦾 An inspirational random geeky quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
