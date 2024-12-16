@@ -25,7 +25,7 @@ on:
 jobs:
   fetch-contributions:
     runs-on: ubuntu-latest
-
+    needs: fetch-languages
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -56,7 +56,7 @@ jobs:
 
   fetch-languages:
     runs-on: ubuntu-latest
-
+    needs: fetch-starred-repos
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
