@@ -73,7 +73,6 @@ Tools and technologies I've played with..
 |------------|-------------|
 | [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
-| [ottomator-agents](https://github.com/coleam00/ottomator-agents) | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 | [multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) | A react-based starter app for using the Multimodal Live API over websockets with Gemini |
 | [Agentless](https://github.com/OpenAutoCoder/Agentless) | Agentless🐱:  an agentless approach to automatically solve software development problems |
 | [metamotivo](https://github.com/facebookresearch/metamotivo) | The first behavioral foundation model to control a virtual physics-based humanoid agent for a wide range of whole-body tasks. |
@@ -101,3 +100,4 @@ Tools and technologies I've played with..
 | [podcastify-deivid](https://github.com/gptdave/podcastify-deivid) | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
 | [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
 | [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
+| [call-gpt](https://github.com/twilio-labs/call-gpt) | Generative AI phone call toolkit using Twilio Media Streams. |
