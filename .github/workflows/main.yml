@@ -1,0 +1,111 @@
+# This workflow contains three jobs that run daily to fetch and cache various GitHub statistics as SVGs.
+# The SVGs are fetched from external services that may occasionally return a 503 (Service Unavailable) error.
+# By caching the SVGs in the repository, we ensure that the stats are always available and up-to-date.
+
+# fetch-contributions job:
+# - Fetches and caches my GitHub contributions as an SVG daily.
+# - Checks if the fetched contributions.svg contains the string "Failed" and retries if necessary.
+
+# fetch-languages job:
+# - Fetches and caches my GitHub languages as an SVG daily.
+
+# fetch-starred-repos job:
+# - Updates the README with the latest 30 starred repositories.
+
+name: Main
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  fetch-contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub Contributions SVG
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 10
+          timeout_minutes: 1
+          command: |
+            curl -o assets/contributions.svg "https://github-readme-streak-stats.herokuapp.com/?user=pjmartorell&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true&border_radius=6&card_width=300"
+            if grep -q "Failed" assets/contributions.svg; then
+              echo "Error: Failed to fetch contributions.svg"
+              exit 1
+
+      - name: Commit and push SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add assets/contributions.svg
+            git commit -m 'Update GitHub Contributions SVG'
+            git push
+          else
+            echo "No changes to commit"
+
+  fetch-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Top Languages SVG
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 10
+          timeout_minutes: 1
+          command: curl -o assets/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=pjmartorell&layout=compact&theme=dark&bg_color=00000000&border_radius=6&include_all_commits=true&card_width=300"
+
+      - name: Commit and push SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add assets/languages.svg
+            git commit -m 'Update GitHub Languages SVG'
+            git push
+          else
+            echo "No changes to commit"
+
+  fetch-starred-repos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+
+      - name: Install dependencies
+        run: npm install @octokit/core
+
+      - name: Fetch and update starred repositories
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 3
+          timeout_minutes: 1
+          command: node scripts/update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m 'Update README with latest starred repositories'
+            git push
+          else
+            echo "No changes to commit"
