@@ -1,6 +1,7 @@
 # This GitHub Action is needed to fetch and cache GitHub stats SVGs daily.
 # The SVGs are fetched from external services that sometimes return a 503 (Service Unavailable) error.
 # By caching the SVGs in the repository, we ensure that the stats are always available and up-to-date.
+# Additionally, the action checks if the fetched contributions.svg contains the string "Failed" and retries if necessary.
 
 name: Fetch GitHub Stats SVGs
 
