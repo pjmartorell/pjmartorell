@@ -1,6 +1,6 @@
 ## 🌐 Stalk me online here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PJMARTORELL)
-[![Bluesky](https://img.shields.io/badge/Bluesky-208bfe.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/pjmartorell.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-208bfe.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/pjmartorell.dev)
 [![X](https://img.shields.io/badge/Twitter-222222.svg?logo=X&logoColor=white)](https://x.com/PJMARTORELL)
 [![Stack Overflow](https://img.shields.io/badge/S✝ack%20Overflow-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/960819/pere-joan-martorell)
 
