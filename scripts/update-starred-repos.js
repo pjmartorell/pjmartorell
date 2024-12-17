@@ -1,16 +1,52 @@
 const fs = require('fs');
-const { Octokit } = require('@octokit/core');
+const { graphql } = require('@octokit/graphql');
 
-const octokit = new Octokit({ auth: process.env.GH_TOKEN });
+const graphqlWithAuth = graphql.defaults({
+  headers: {
+    authorization: `token ${process.env.GH_TOKEN}`
+  }
+});
 
 async function fetchStarredRepos() {
-  const response = await octokit.request('GET /users/pjmartorell/starred');
-  return response.data;
+  const query = `
+    query($username: String!, $after: String) {
+      user(login: $username) {
+        starredRepositories(first: 30, after: $after) {
+          nodes {
+            name
+            description
+            url
+          }
+          pageInfo {
+            endCursor
+            hasNextPage
+          }
+        }
+      }
+    }
+  `;
+
+  const variables = {
+    username: "pjmartorell",
+    after: null
+  };
+
+  let repos = [];
+  let hasNextPage = true;
+
+  while (hasNextPage && repos.length < 30) {
+    const response = await graphqlWithAuth(query, variables);
+    repos = repos.concat(response.user.starredRepositories.nodes);
+    hasNextPage = response.user.starredRepositories.pageInfo.hasNextPage;
+    variables.after = response.user.starredRepositories.pageInfo.endCursor;
+  }
+
+  return repos.slice(0, 30);
 }
 
 async function updateReadme(repos) {
   const tableHeader = '| Repository | Description |\n|------------|-------------|';
-  const tableRows = repos.map(repo => `| [${repo.name}](${repo.html_url}) | ${repo.description || ''} |`).join('\n');
+  const tableRows = repos.map(repo => `| [${repo.name}](${repo.url}) | ${repo.description || ''} |`).join('\n');
   const table = `${tableHeader}\n${tableRows}`;
 
   let readmeContent = fs.readFileSync('README.md', 'utf8');

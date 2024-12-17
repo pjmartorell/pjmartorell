@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@octokit/core": "^6.1.2",
     "@octokit/graphql": "^8.1.1",
     "@xmldom/xmldom": "^0.9.6",
     "xpath": "^0.0.34"
