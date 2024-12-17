@@ -4,7 +4,11 @@ const { Octokit } = require('@octokit/core');
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function fetchContributions() {
-  const { data: events } = await octokit.request('GET /users/pjmartorell/events/public')
+  const username = "pjmartorell";
+  const { data: events } = await octokit.request('GET /users/{username}/events/public', {
+    username,
+    per_page: 50,
+  });
 
   const contributions = events
     .filter(event => event.type === "PushEvent" && event.repo.name.split('/')[0] !== username)
