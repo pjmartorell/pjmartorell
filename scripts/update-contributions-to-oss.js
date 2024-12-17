@@ -69,7 +69,7 @@ async function updateReadme(contributions) {
     `- [${contribution.repo}](${contribution.url}): ${contribution.commits.map(commit => `[${commit.commitCount} commits](${commit.url})`).join(", ")}`
   ).join("\n");
 
-  const newContent = `<!-- LATEST_CONTRIBUTIONS_START -->\n## Latest Contributions to OSS\n\n${contributionsList}\n<!-- LATEST_CONTRIBUTIONS_END -->`;
+  const newContent = `<!-- LATEST_CONTRIBUTIONS_START -->\n## 🤝 Latest Contributions to OSS\n\n${contributionsList}\n<!-- LATEST_CONTRIBUTIONS_END -->`;
 
   readmeContent = readmeContent.replace(
     /<!-- LATEST_CONTRIBUTIONS_START -->[\s\S]*?<!-- LATEST_CONTRIBUTIONS_END -->/,
