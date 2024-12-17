@@ -67,7 +67,8 @@ Tools and technologies I've played with..
 ## 🦾 An inspirational random geeky quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- LATEST_CONTRIBUTIONS_START -->
-## Latest Contributions to OSS
+## 🤝 Latest Contributions to OSS
+
 
 
 <!-- LATEST_CONTRIBUTIONS_END -->
