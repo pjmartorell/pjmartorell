@@ -11,7 +11,7 @@ async function fetchStarredRepos() {
   const query = `
     query($username: String!, $after: String) {
       user(login: $username) {
-        starredRepositories(first: 30, after: $after) {
+        starredRepositories(first: 30, after: $after, orderBy: { field: STARRED_AT, direction: DESC }) {
           nodes {
             name
             description
