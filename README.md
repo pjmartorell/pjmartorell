@@ -66,8 +66,13 @@ Tools and technologies I've played with..
 
 ## 🦾 An inspirational random geeky quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## ⭐ Latest Starred Repos
+<!-- LATEST_CONTRIBUTIONS_START -->
+## Latest Contributions to OSS
 
+<!-- LATEST_CONTRIBUTIONS_END -->
+
+<!-- LATEST_STARRED_REPOS_START -->
+## ⭐ Latest Starred Repos
 | Repository | Description |
 |------------|-------------|
 | [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
@@ -100,3 +105,5 @@ Tools and technologies I've played with..
 | [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
 | [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
 | [call-gpt](https://github.com/twilio-labs/call-gpt) | Generative AI phone call toolkit using Twilio Media Streams. |
+
+<!-- LATEST_STARRED_REPOS_END -->

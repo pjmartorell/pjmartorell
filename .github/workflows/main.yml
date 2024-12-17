@@ -138,3 +138,36 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+  update-contributions-to-other-repos:
+    runs-on: ubuntu-latest
+    needs: update-contributions
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest changes
+        run: git pull
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest contributions to OSS
+        run: node scripts/update-contributions-to-oss.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m 'Update README with latest contributions to OSS'
+            git push
+          else
+            echo "No changes to commit"
+          fi

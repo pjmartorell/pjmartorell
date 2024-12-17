@@ -14,8 +14,14 @@ async function updateReadme(repos) {
   const table = `${tableHeader}\n${tableRows}`;
 
   let readmeContent = fs.readFileSync('README.md', 'utf8');
-  const newContent = readmeContent.replace(/## ⭐ Latest Starred Repos[\s\S]*/, `## ⭐ Latest Starred Repos\n\n${table}`);
-  fs.writeFileSync('README.md', newContent);
+  const newContent = `<!-- LATEST_STARRED_REPOS_START -->\n## ⭐ Latest Starred Repos\n\n${table}\n<!-- LATEST_STARRED_REPOS_END -->`;
+
+  readmeContent = readmeContent.replace(
+    /<!-- LATEST_STARRED_REPOS_START -->[\s\S]*?<!-- LATEST_STARRED_REPOS_END -->/,
+    newContent
+  );
+
+  fs.writeFileSync('README.md', readmeContent);
 }
 
 async function main() {
