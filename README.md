@@ -77,34 +77,34 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
-| [tmdb_party](https://github.com/jduff/tmdb_party) | Simple ruby wrapper to themoviedb.org (http://api.themoviedb.org/2.0/docs/) using HTTParty |
-| [email-blueprints](https://github.com/mailchimp/email-blueprints) | Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails |
-| [ar-resque-counter-cache](https://github.com/agibralter/ar-resque-counter-cache) | Asynchronous counter_cache updates using Resque (formerly http://github.com/agibralter/ar-async-counter-cache). |
-| [dotfiles](https://github.com/albertbellonch/dotfiles) | My personal dotfiles. Use them or use them. |
-| [bayes_motel](https://github.com/mperham/bayes_motel) | Multi-variate Bayesian classification engine |
-| [classifier](https://github.com/cardmagic/classifier) | A general classifier module to allow Bayesian and LSI classifications. |
-| [geocoder](https://github.com/alexreisner/geocoder) | Complete Ruby geocoding solution. |
-| [acts_as_shopping_cart](https://github.com/crowdint/acts_as_shopping_cart) | Simple Shopping Cart implementation, Official repo: https://github.com/dabit/acts_as_shopping_cart |
-| [zeitkit](https://github.com/dyve-agency/zeitkit) | An open source time-tracker for developers. |
-| [questionizer](https://github.com/dyve-agency/questionizer) |  |
-| [gringotts](https://github.com/conroywhitney/gringotts) | 2FA Phone Verification Engine for Rails. Protego! |
-| [ruby-style-guide](https://github.com/rubocop/ruby-style-guide) | A community-driven Ruby coding style guide |
-| [nokogiri](https://github.com/sparklemotion/nokogiri) | Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. |
-| [old-website](https://github.com/haileys/old-website) |  |
-| [thread_safe](https://github.com/ruby-concurrency/thread_safe) | Thread-safe collections for Ruby (merged with concurrent-ruby) |
-| [haml](https://github.com/haml/haml) | HTML Abstraction Markup Language - A Markup Haiku |
-| [did_you_mean](https://github.com/ruby/did_you_mean) | The gem that has been saving people from typos since 2014 |
-| [ghost-on-heroku](https://github.com/cobyism/ghost-on-heroku) | One-button Heroku deploy for the Ghost blogging platform. |
-| [jruby](https://github.com/jruby/jruby) | JRuby, an implementation of Ruby on the JVM |
-| [awesome-ruby](https://github.com/markets/awesome-ruby) | 💎 A collection of awesome Ruby libraries, tools, frameworks and software |
-| [bigcouch](https://github.com/cloudant/bigcouch) | Putting the 'C' back in CouchDB |
-| [ahoy](https://github.com/ankane/ahoy) | Simple, powerful, first-party analytics for Rails |
-| [Stream-Framework](https://github.com/tschellenbach/Stream-Framework) | Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology: |
-| [rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
-| [irbtools](https://github.com/janlelis/irbtools) | Improvements for Ruby's IRB console 💎︎ |
-| [mongulator](https://github.com/banker/mongulator) | Try MongoDB! A simple MongoDB shell with tutorial that runs in the web browser. |
-| [helix](https://github.com/tildeio/helix) | Native Ruby extensions without fear |
-| [apipie-rails](https://github.com/Apipie/apipie-rails) | Ruby on Rails API documentation tool |
-| [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) | 🐠 ZSH port of Fish history search (up arrow) |
-| [rack-attack](https://github.com/rack/rack-attack) | Rack middleware for blocking & throttling |
+| [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. |
+| [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
+| [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
+| [multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) | A react-based starter app for using the Multimodal Live API over websockets with Gemini |
+| [Agentless](https://github.com/OpenAutoCoder/Agentless) | Agentless🐱:  an agentless approach to automatically solve software development problems |
+| [metamotivo](https://github.com/facebookresearch/metamotivo) | The first behavioral foundation model to control a virtual physics-based humanoid agent for a wide range of whole-body tasks. |
+| [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | Awesome-LLM: a curated list of Large Language Model |
+| [awesome-ml](https://github.com/underlines/awesome-ml) | Curated list of useful LLM / Analytics / Datascience resources |
+| [coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [vibe](https://github.com/thewh1teagle/vibe) | Transcribe on your own! |
+| [AI-Travel-Manager](https://github.com/thekaailashsharma/AI-Travel-Manager) | An AI based travel manager:  Explore hidden gems, make your perfect trip, discover new places, engage in captivating events, and share your own travel stories with Tripify. |
+| [travel-ai-service](https://github.com/mjunaidca/travel-ai-service) | A fun AI Powered Traveling Assistant that annotates map and help in planning travel trips |
+| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
+| [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
+| [starter-applets](https://github.com/google-gemini/starter-applets) |  |
+| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
+| [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
+| [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
+| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
+| [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
+| [rubysmith](https://github.com/bkuhlmann/rubysmith) | A command line interface for smithing Ruby projects. |
+| [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
+| [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
+| [react-scan](https://github.com/aidenybai/react-scan) | Scan for React performance issues and eliminate slow renders in your app |
+| [job-iteration](https://github.com/Shopify/job-iteration) | Makes your background jobs interruptible and resumable by design. |
+| [letta](https://github.com/letta-ai/letta) | Letta (formerly MemGPT) is a framework for creating LLM services with memory. |
+| [podcast-llm](https://github.com/evandempsey/podcast-llm) | Automatically generate engaging AI podcasts from nothing but an episode title. |
+| [podcastify-deivid](https://github.com/gptdave/podcastify-deivid) | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
+| [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
+| [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
 <!-- LATEST_STARRED_REPOS_END -->
