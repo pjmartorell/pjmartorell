@@ -139,7 +139,7 @@ jobs:
             echo "No changes to commit"
           fi
 
-  update-contributions-to-other-repos:
+  update-contributions-to-oss:
     runs-on: ubuntu-latest
     needs: update-contributions
     steps:
@@ -154,11 +154,33 @@ jobs:
         with:
           node-version: 'latest'
 
+      - name: Cache node modules
+        id: cache-npm
+        uses: actions/cache@v4
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        name: List the state of node modules
+        continue-on-error: true
+        run: npm list
+
       - name: Install dependencies
         run: npm install
 
       - name: Fetch latest contributions to OSS
-        run: node scripts/update-contributions-to-oss.js
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 10
+          timeout_minutes: 1
+          command: node scripts/update-contributions-to-oss.js
 
       - name: Commit changes
         run: |

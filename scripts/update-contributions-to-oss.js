@@ -1,15 +1,10 @@
-const { Octokit } = require("@octokit/rest");
 const fs = require("fs");
-const path = require("path");
+const { Octokit } = require('@octokit/core');
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function fetchContributions() {
-  const username = "pjmartorell";
-  const { data: events } = await octokit.activity.listPublicEventsForUser({
-    username,
-    per_page: 100,
-  });
+  const { data: events } = await octokit.request('GET /users/pjmartorell/events/public')
 
   const contributions = events
     .filter(event => event.type === "PushEvent" && event.repo.name.split('/')[0] !== username)
@@ -23,8 +18,7 @@ async function fetchContributions() {
 }
 
 async function updateReadme(contributions) {
-  const readmePath = path.join(__dirname, "../README.md");
-  let readmeContent = fs.readFileSync(readmePath, "utf-8");
+  let readmeContent = fs.readFileSync('README.md', 'utf8');
 
   const contributionsList = contributions.map(contribution =>
     `- [${contribution.repo}](${contribution.url}): ${contribution.message}`
@@ -37,7 +31,7 @@ async function updateReadme(contributions) {
     newContent
   );
 
-  fs.writeFileSync(readmePath, readmeContent);
+  fs.writeFileSync('README.md', readmeContent);
 }
 
 async function main() {
