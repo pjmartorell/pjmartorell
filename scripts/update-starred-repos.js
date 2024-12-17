@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { Octokit } = require('@octokit/core');
 
-const octokit = new Octokit();
+const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function fetchStarredRepos() {
   const response = await octokit.request('GET /users/pjmartorell/starred');
