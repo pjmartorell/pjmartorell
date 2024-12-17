@@ -57,6 +57,8 @@ jobs:
         run: npm install
 
       - name: Fetch GitHub Contributions and update SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-contributions-svg.js
 
       - name: Commit and push SVG
@@ -139,6 +141,8 @@ jobs:
 
       - name: Fetch and update starred repositories
         uses: nick-fields/retry@v3
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           max_attempts: 10
           timeout_minutes: 1
@@ -194,6 +198,8 @@ jobs:
 
       - name: Fetch latest contributions to OSS
         uses: nick-fields/retry@v3
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           max_attempts: 10
           timeout_minutes: 1
