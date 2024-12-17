@@ -4,19 +4,56 @@ const { Octokit } = require('@octokit/core');
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function fetchContributions() {
-  const username = "pjmartorell";
-  const { data: events } = await octokit.request('GET /users/{username}/events/public', {
-    username,
-    per_page: 50,
-  });
+  const query = `
+    query($username: String!, $after: String) {
+      user(login: $username) {
+        contributionsCollection {
+          commitContributionsByRepository(maxRepositories: 100) {
+            repository {
+              nameWithOwner
+              url
+            }
+            contributions(first: 100, after: $after) {
+              nodes {
+                commitCount
+                url
+              }
+              pageInfo {
+                endCursor
+                hasNextPage
+              }
+            }
+          }
+        }
+      }
+    }
+  `;
 
-  const contributions = events
-    .filter(event => event.type === "PushEvent" && event.repo.name.split('/')[0] !== username)
-    .map(event => ({
-      repo: event.repo.name,
-      message: event.payload.commits.map(commit => commit.message).join(", "),
-      url: `https://github.com/${event.repo.name}`
-    }));
+  const variables = {
+    username: "pjmartorell",
+    after: null
+  };
+
+  let contributions = [];
+  let hasNextPage = true;
+
+  while (hasNextPage) {
+    const response = await octokit.graphql(query, variables);
+    const repos = response.user.contributionsCollection.commitContributionsByRepository
+      .filter(repo => !repo.repository.nameWithOwner.startsWith("pjmartorell/"))
+      .map(repo => ({
+        repo: repo.repository.nameWithOwner,
+        commits: repo.contributions.nodes.map(contribution => ({
+          commitCount: contribution.commitCount,
+          url: contribution.url
+        })),
+        url: repo.repository.url
+      }));
+
+    contributions = contributions.concat(repos);
+    hasNextPage = response.user.contributionsCollection.commitContributionsByRepository.some(repo => repo.contributions.pageInfo.hasNextPage);
+    variables.after = response.user.contributionsCollection.commitContributionsByRepository.find(repo => repo.contributions.pageInfo.hasNextPage)?.contributions.pageInfo.endCursor;
+  }
 
   return contributions;
 }
@@ -25,7 +62,7 @@ async function updateReadme(contributions) {
   let readmeContent = fs.readFileSync('README.md', 'utf8');
 
   const contributionsList = contributions.map(contribution =>
-    `- [${contribution.repo}](${contribution.url}): ${contribution.message}`
+    `- [${contribution.repo}](${contribution.url}): ${contribution.commits.map(commit => `[${commit.commitCount} commits](${commit.url})`).join(", ")}`
   ).join("\n");
 
   const newContent = `<!-- LATEST_CONTRIBUTIONS_START -->\n## Latest Contributions to OSS\n\n${contributionsList}\n<!-- LATEST_CONTRIBUTIONS_END -->`;
