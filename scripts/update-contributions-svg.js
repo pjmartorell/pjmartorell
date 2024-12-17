@@ -1,9 +1,13 @@
 const fs = require("fs");
-const { Octokit } = require('@octokit/core');
+const { graphql } = require('@octokit/graphql');
 const { DOMParser, XMLSerializer } = require('@xmldom/xmldom');
 const xpath = require('xpath');
 
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+const graphqlWithAuth = graphql.defaults({
+  headers: {
+    authorization: `token ${process.env.GITHUB_TOKEN}`
+  }
+});
 
 async function fetchTotalContributions() {
   const query = `
@@ -27,7 +31,7 @@ async function fetchTotalContributions() {
     const to = `${year}-12-31T23:59:59Z`;
 
     const variables = { username, from, to };
-    const response = await octokit.graphql(query, variables);
+    const response = await graphqlWithAuth(query, variables);
     totalContributions += response.user.contributionsCollection.contributionCalendar.totalContributions;
   }
 
