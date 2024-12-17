@@ -30,17 +30,34 @@ jobs:
       - name: Pull latest changes
         run: git pull
 
-      - name: Fetch GitHub Contributions SVG
-        uses: nick-fields/retry@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          max_attempts: 10
-          timeout_minutes: 1
-          command: |
-            curl -o assets/contributions.svg "https://github-readme-streak-stats.herokuapp.com/?user=pjmartorell&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true&border_radius=6&card_width=300"
-            if grep -q "Failed" assets/contributions.svg; then
-              echo "Error: Failed to fetch contributions.svg"
-              exit 1
-            fi
+          node-version: 'latest'
+
+      - name: Cache node modules
+        id: cache-npm
+        uses: actions/cache@v4
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        name: List the state of node modules
+        continue-on-error: true
+        run: npm list
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch GitHub Contributions and update SVG
+        run: node scripts/update-contributions-svg.js
 
       - name: Commit and push SVG
         run: |
