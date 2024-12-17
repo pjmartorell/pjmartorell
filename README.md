@@ -67,7 +67,7 @@ Tools and technologies I've played with..
 ## 🦾 An inspirational random geeky quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- LATEST_CONTRIBUTIONS_START -->
-## Latest Contributions to OSS
+## 🤝 Latest Contributions to OSS
 
 - [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial): [1 commits](https://github.com/pjmartorell?tab=overview&from=2024-05-01&to=2024-05-31), [3 commits](https://github.com/pjmartorell?tab=overview&from=2024-05-01&to=2024-05-31)
 <!-- LATEST_CONTRIBUTIONS_END -->
