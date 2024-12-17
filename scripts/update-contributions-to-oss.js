@@ -1,7 +1,11 @@
 const fs = require("fs");
-const { Octokit } = require('@octokit/core');
+const { graphql } = require('@octokit/graphql');
 
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+const graphqlWithAuth = graphql.defaults({
+  headers: {
+    authorization: `token ${process.env.GITHUB_TOKEN}`
+  }
+});
 
 async function fetchContributions() {
   const query = `
@@ -38,7 +42,7 @@ async function fetchContributions() {
   let hasNextPage = true;
 
   while (hasNextPage) {
-    const response = await octokit.graphql(query, variables);
+    const response = await graphqlWithAuth(query, variables);
     const repos = response.user.contributionsCollection.commitContributionsByRepository
       .filter(repo => !repo.repository.nameWithOwner.startsWith("pjmartorell/"))
       .map(repo => ({
