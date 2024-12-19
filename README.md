@@ -77,6 +77,12 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
+| [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
+| [strapi-starter](https://github.com/paloitsingapore/strapi-starter) |  |
+| [pgai](https://github.com/timescale/pgai) | A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL |
+| [cookbook](https://github.com/mistralai/cookbook) |  |
+| [FastVideo](https://github.com/hao-ai-lab/FastVideo) | FastVideo is an open-source framework for accelerating large video diffusion model. |
 | [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. |
 | [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
@@ -101,10 +107,4 @@ Tools and technologies I've played with..
 | [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
 | [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
 | [react-scan](https://github.com/aidenybai/react-scan) | Scan for React performance issues and eliminate slow renders in your app |
-| [job-iteration](https://github.com/Shopify/job-iteration) | Makes your background jobs interruptible and resumable by design. |
-| [letta](https://github.com/letta-ai/letta) | Letta (formerly MemGPT) is a framework for creating LLM services with memory. |
-| [podcast-llm](https://github.com/evandempsey/podcast-llm) | Automatically generate engaging AI podcasts from nothing but an episode title. |
-| [podcastify-deivid](https://github.com/gptdave/podcastify-deivid) | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
-| [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
-| [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
 <!-- LATEST_STARRED_REPOS_END -->
