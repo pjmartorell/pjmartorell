@@ -77,6 +77,11 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | A generative world for general-purpose robotics & embodied AI learning. |
+| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
+| [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. |
+| [ai-prompts](https://github.com/Tolga1452/ai-prompts) | A collection of system prompts and tool data used for AI chatbots. |
+| [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | A collection of prompts, system prompts and LLM instructions |
 | [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
 | [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
 | [strapi-starter](https://github.com/paloitsingapore/strapi-starter) |  |
@@ -102,9 +107,4 @@ Tools and technologies I've played with..
 | [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
 | [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
 | [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
-| [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
-| [rubysmith](https://github.com/bkuhlmann/rubysmith) | A command line interface for smithing Ruby projects. |
-| [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
-| [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
-| [react-scan](https://github.com/aidenybai/react-scan) | Scan for React performance issues and eliminate slow renders in your app |
 <!-- LATEST_STARRED_REPOS_END -->
