@@ -77,6 +77,10 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI. |
+| [LaVague](https://github.com/lavague-ai/LaVague) | Large Action Model framework to develop AI Web Agents |
+| [01](https://github.com/OpenInterpreter/01) | The #1 open-source voice interface for desktop, mobile, and ESP32 chips. |
+| [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers  |
 | [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | A generative world for general-purpose robotics & embodied AI learning. |
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. |
@@ -103,8 +107,4 @@ Tools and technologies I've played with..
 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
 | [starter-applets](https://github.com/google-gemini/starter-applets) |  |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
-| [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
-| [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
-| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
 <!-- LATEST_STARRED_REPOS_END -->
