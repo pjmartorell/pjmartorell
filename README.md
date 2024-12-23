@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
+| [music-services](https://github.com/martypenner/music-services) | Self-hosted music services to share my music live with my friends. |
 | [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI. |
 | [LaVague](https://github.com/lavague-ai/LaVague) | Large Action Model framework to develop AI Web Agents |
 | [01](https://github.com/OpenInterpreter/01) | The #1 open-source voice interface for desktop, mobile, and ESP32 chips. |
@@ -105,6 +107,4 @@ Tools and technologies I've played with..
 | [AI-Travel-Manager](https://github.com/thekaailashsharma/AI-Travel-Manager) | An AI based travel manager:  Explore hidden gems, make your perfect trip, discover new places, engage in captivating events, and share your own travel stories with Tripify. |
 | [travel-ai-service](https://github.com/mjunaidca/travel-ai-service) | A fun AI Powered Traveling Assistant that annotates map and help in planning travel trips |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
-| [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
-| [starter-applets](https://github.com/google-gemini/starter-applets) |  |
 <!-- LATEST_STARRED_REPOS_END -->
