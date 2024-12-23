@@ -107,4 +107,24 @@ Tools and technologies I've played with..
 | [vibe](https://github.com/thewh1teagle/vibe) | Transcribe on your own! |
 | [AI-Travel-Manager](https://github.com/thekaailashsharma/AI-Travel-Manager) | An AI based travel manager:  Explore hidden gems, make your perfect trip, discover new places, engage in captivating events, and share your own travel stories with Tripify. |
 | [travel-ai-service](https://github.com/mjunaidca/travel-ai-service) | A fun AI Powered Traveling Assistant that annotates map and help in planning travel trips |
+| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
+| [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
+| [starter-applets](https://github.com/google-gemini/starter-applets) | Google AI Studio Starter Apps |
+| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
+| [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
+| [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
+| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
+| [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
+| [rubysmith](https://github.com/bkuhlmann/rubysmith) | A command line interface for smithing Ruby projects. |
+| [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
+| [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
+| [react-scan](https://github.com/aidenybai/react-scan) | Scan for React performance issues and eliminate slow renders in your app |
+| [job-iteration](https://github.com/Shopify/job-iteration) | Makes your background jobs interruptible and resumable by design. |
+| [letta](https://github.com/letta-ai/letta) | Letta (formerly MemGPT) is a framework for creating LLM services with memory. |
+| [podcast-llm](https://github.com/evandempsey/podcast-llm) | Automatically generate engaging AI podcasts from nothing but an episode title. |
+| [podcastify-deivid](https://github.com/gptdave/podcastify-deivid) | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
+| [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
+| [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
+| [call-gpt](https://github.com/twilio-labs/call-gpt) | Generative AI phone call toolkit using Twilio Media Streams. |
+| [copilot-api](https://github.com/B00TK1D/copilot-api) | GitHub Copilot API |
 <!-- LATEST_STARRED_REPOS_END -->
