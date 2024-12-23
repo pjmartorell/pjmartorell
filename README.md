@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
 | [music-services](https://github.com/martypenner/music-services) | Self-hosted music services to share my music live with my friends. |
 | [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI. |
@@ -106,5 +107,4 @@ Tools and technologies I've played with..
 | [vibe](https://github.com/thewh1teagle/vibe) | Transcribe on your own! |
 | [AI-Travel-Manager](https://github.com/thekaailashsharma/AI-Travel-Manager) | An AI based travel manager:  Explore hidden gems, make your perfect trip, discover new places, engage in captivating events, and share your own travel stories with Tripify. |
 | [travel-ai-service](https://github.com/mjunaidca/travel-ai-service) | A fun AI Powered Traveling Assistant that annotates map and help in planning travel trips |
-| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 <!-- LATEST_STARRED_REPOS_END -->
