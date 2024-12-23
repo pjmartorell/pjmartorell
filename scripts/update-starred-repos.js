@@ -41,7 +41,7 @@ async function fetchStarredRepos() {
     variables.after = response.user.starredRepositories.pageInfo.endCursor;
   }
 
-  return repos.slice(0, 30);
+  return repos.slice(0, 50);
 }
 
 async function updateReadme(repos) {
