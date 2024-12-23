@@ -34,7 +34,7 @@ async function fetchStarredRepos() {
   let repos = [];
   let hasNextPage = true;
 
-  while (hasNextPage && repos.length < 30) {
+  while (hasNextPage && repos.length < 50) {
     const response = await graphqlWithAuth(query, variables);
     repos = repos.concat(response.user.starredRepositories.nodes);
     hasNextPage = response.user.starredRepositories.pageInfo.hasNextPage;
