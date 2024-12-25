@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [webaudio-examples](https://github.com/mdn/webaudio-examples) | Code examples that accompany the MDN Web Docs pages relating to Web Audio. |
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
 | [music-services](https://github.com/martypenner/music-services) | Self-hosted music services to share my music live with my friends. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
 | [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
 | [call-gpt](https://github.com/twilio-labs/call-gpt) | Generative AI phone call toolkit using Twilio Media Streams. |
-| [copilot-api](https://github.com/B00TK1D/copilot-api) | GitHub Copilot API |
 <!-- LATEST_STARRED_REPOS_END -->
