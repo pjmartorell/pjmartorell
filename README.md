@@ -77,6 +77,10 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
+| [GLM-Edge](https://github.com/THUDM/GLM-Edge) | GLM Series Edge Models |
+| [CogAgent](https://github.com/THUDM/CogAgent) | An open-sourced end-to-end VLM-based GUI Agent |
+| [MMAudio](https://github.com/hkchengrex/MMAudio) | [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
 | [webaudio-examples](https://github.com/mdn/webaudio-examples) | Code examples that accompany the MDN Web Docs pages relating to Web Audio. |
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
@@ -123,8 +127,4 @@ Tools and technologies I've played with..
 | [job-iteration](https://github.com/Shopify/job-iteration) | Makes your background jobs interruptible and resumable by design. |
 | [letta](https://github.com/letta-ai/letta) | Letta (formerly MemGPT) is a framework for creating LLM services with memory. |
 | [podcast-llm](https://github.com/evandempsey/podcast-llm) | Automatically generate engaging AI podcasts from nothing but an episode title. |
-| [podcastify-deivid](https://github.com/gptdave/podcastify-deivid) | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
-| [ai-playground](https://github.com/rokbenko/ai-playground) | Code from tutorials presented on the "Code AI with Rok" YouTube channel |
-| [picMenu](https://github.com/Nutlope/picMenu) | Visualize menus in seconds with AI |
-| [call-gpt](https://github.com/twilio-labs/call-gpt) | Generative AI phone call toolkit using Twilio Media Streams. |
 <!-- LATEST_STARRED_REPOS_END -->
