@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js |
+| [trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
 | [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
 | [GLM-Edge](https://github.com/THUDM/GLM-Edge) | GLM Series Edge Models |
 | [CogAgent](https://github.com/THUDM/CogAgent) | An open-sourced end-to-end VLM-based GUI Agent |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
 | [react-scan](https://github.com/aidenybai/react-scan) | Scan for React performance issues and eliminate slow renders in your app |
 | [job-iteration](https://github.com/Shopify/job-iteration) | Makes your background jobs interruptible and resumable by design. |
-| [letta](https://github.com/letta-ai/letta) | Letta (formerly MemGPT) is a framework for creating LLM services with memory. |
-| [podcast-llm](https://github.com/evandempsey/podcast-llm) | Automatically generate engaging AI podcasts from nothing but an episode title. |
 <!-- LATEST_STARRED_REPOS_END -->
