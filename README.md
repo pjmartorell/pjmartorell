@@ -87,7 +87,7 @@ Tools and technologies I've played with..
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
 | [music-services](https://github.com/martypenner/music-services) | Self-hosted music services to share my music live with my friends. |
-| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI. |
+| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper |
 | [LaVague](https://github.com/lavague-ai/LaVague) | Large Action Model framework to develop AI Web Agents |
 | [01](https://github.com/OpenInterpreter/01) | The #1 open-source voice interface for desktop, mobile, and ESP32 chips. |
 | [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers  |
