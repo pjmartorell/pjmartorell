@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [hr-hrv](https://github.com/ronibandini/hr-hrv) | ECG stress detection with Machine Learning HR/HRV |
 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
 | [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js |
 | [trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [rubysmith](https://github.com/bkuhlmann/rubysmith) | A command line interface for smithing Ruby projects. |
 | [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
 | [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
-| [react-scan](https://github.com/aidenybai/react-scan) | Scan for React performance issues and eliminate slow renders in your app |
 <!-- LATEST_STARRED_REPOS_END -->
