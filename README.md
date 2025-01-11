@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [langchainrb_rails](https://github.com/patterns-ai-core/langchainrb_rails) |  |
 | [hr-hrv](https://github.com/ronibandini/hr-hrv) | ECG stress detection with Machine Learning HR/HRV |
 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
 | [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
 | [rubysmith](https://github.com/bkuhlmann/rubysmith) | A command line interface for smithing Ruby projects. |
 | [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
-| [MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) | A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information |
 <!-- LATEST_STARRED_REPOS_END -->
