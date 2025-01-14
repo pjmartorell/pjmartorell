@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [awesome-L402](https://github.com/Fewsats/awesome-L402) | A curated list of awesome things related to L402 ⚡ |
+| [NotallyX](https://github.com/PhilKes/NotallyX) | Minimalistic Android note taking App | Notally, but eXtended. |
 | [langchainrb_rails](https://github.com/patterns-ai-core/langchainrb_rails) |  |
 | [hr-hrv](https://github.com/ronibandini/hr-hrv) | ECG stress detection with Machine Learning HR/HRV |
 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
@@ -104,7 +106,7 @@ Tools and technologies I've played with..
 | [strapi-starter](https://github.com/paloitsingapore/strapi-starter) |  |
 | [pgai](https://github.com/timescale/pgai) | A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL |
 | [cookbook](https://github.com/mistralai/cookbook) |  |
-| [FastVideo](https://github.com/hao-ai-lab/FastVideo) | FastVideo is an open-source framework for accelerating large video diffusion model. |
+| [FastVideo](https://github.com/hao-ai-lab/FastVideo) | FastVideo is a lightweight framework for accelerating large video diffusion models. |
 | [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. |
 | [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
 | [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
-| [rubysmith](https://github.com/bkuhlmann/rubysmith) | A command line interface for smithing Ruby projects. |
-| [compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
 <!-- LATEST_STARRED_REPOS_END -->
