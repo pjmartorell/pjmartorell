@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) | An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. |
+| [Real-time-voice-ultra-simple-template-with-function-calling](https://github.com/echohive42/Real-time-voice-ultra-simple-template-with-function-calling) | OpenAI real-time voice Fastapi template with function calling with maximum simplicity. comes with arxiv paper function as an example and full event capture |
 | [awesome-L402](https://github.com/Fewsats/awesome-L402) | A curated list of awesome things related to L402 ⚡ |
 | [NotallyX](https://github.com/PhilKes/NotallyX) | Minimalistic Android note taking App | Notally, but eXtended. |
 | [langchainrb_rails](https://github.com/patterns-ai-core/langchainrb_rails) |  |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
 | [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
 | [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
-| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
-| [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
 <!-- LATEST_STARRED_REPOS_END -->
