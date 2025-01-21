@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [agent-zero](https://github.com/frdel/agent-zero) | Agent Zero AI framework |
 | [o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) | An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. |
 | [Real-time-voice-ultra-simple-template-with-function-calling](https://github.com/echohive42/Real-time-voice-ultra-simple-template-with-function-calling) | OpenAI real-time voice Fastapi template with function calling with maximum simplicity. comes with arxiv paper function as an example and full event capture |
 | [awesome-L402](https://github.com/Fewsats/awesome-L402) | A curated list of awesome things related to L402 ⚡ |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [starter-applets](https://github.com/google-gemini/starter-applets) | Google AI Studio Starter Apps |
 | [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
 | [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
-| [nlp-de-cero-a-cien](https://github.com/somosnlp/nlp-de-cero-a-cien) | Curso práctico: NLP de cero a cien 🤗 |
 <!-- LATEST_STARRED_REPOS_END -->
