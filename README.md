@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [frankenthought-chat](https://github.com/echohive42/frankenthought-chat) | uses all reasoning models in parallel and synthesizes an answer with o1. also has multi-chat where you can chat with any of them |
+| [xyflow](https://github.com/xyflow/xyflow) | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
 | [agent-zero](https://github.com/frdel/agent-zero) | Agent Zero AI framework |
 | [o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) | An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. |
 | [Real-time-voice-ultra-simple-template-with-function-calling](https://github.com/echohive42/Real-time-voice-ultra-simple-template-with-function-calling) | OpenAI real-time voice Fastapi template with function calling with maximum simplicity. comes with arxiv paper function as an example and full event capture |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
 | [starter-applets](https://github.com/google-gemini/starter-applets) | Google AI Studio Starter Apps |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
-| [tavily-python](https://github.com/tavily-ai/tavily-python) | A python wrapper for Tavily search API |
 <!-- LATEST_STARRED_REPOS_END -->
