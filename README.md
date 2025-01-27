@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM |
 | [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks |
 | [frankenthought-chat](https://github.com/echohive42/frankenthought-chat) | uses all reasoning models in parallel and synthesizes an answer with o1. also has multi-chat where you can chat with any of them |
 | [xyflow](https://github.com/xyflow/xyflow) | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [AI-Travel-Manager](https://github.com/thekaailashsharma/AI-Travel-Manager) | An AI based travel manager:  Explore hidden gems, make your perfect trip, discover new places, engage in captivating events, and share your own travel stories with Tripify. |
 | [travel-ai-service](https://github.com/mjunaidca/travel-ai-service) | A fun AI Powered Traveling Assistant that annotates map and help in planning travel trips |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
-| [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
 <!-- LATEST_STARRED_REPOS_END -->
