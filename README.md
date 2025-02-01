@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
 | [value-object-in-ruby-benchmarks](https://github.com/lucianghinda/value-object-in-ruby-benchmarks) | A series of micro benchmarks about Data.define vs Struct vs OpenStruct in #Ruby |
 | [notebookLM](https://github.com/NimaMan/notebookLM) | An Open Source implementation of Notebook LM with more flexibility and features |
 | [chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [awesome-ml](https://github.com/underlines/awesome-ml) | Curated list of useful LLM / Analytics / Datascience resources |
 | [coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
 | [vibe](https://github.com/thewh1teagle/vibe) | Transcribe on your own! |
-| [AI-Travel-Manager](https://github.com/thekaailashsharma/AI-Travel-Manager) | An AI based travel manager:  Explore hidden gems, make your perfect trip, discover new places, engage in captivating events, and share your own travel stories with Tripify. |
 <!-- LATEST_STARRED_REPOS_END -->
