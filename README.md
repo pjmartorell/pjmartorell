@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
 | [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
 | [value-object-in-ruby-benchmarks](https://github.com/lucianghinda/value-object-in-ruby-benchmarks) | A series of micro benchmarks about Data.define vs Struct vs OpenStruct in #Ruby |
 | [notebookLM](https://github.com/NimaMan/notebookLM) | An Open Source implementation of Notebook LM with more flexibility and features |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | Awesome-LLM: a curated list of Large Language Model |
 | [awesome-ml](https://github.com/underlines/awesome-ml) | Curated list of useful LLM / Analytics / Datascience resources |
 | [coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
-| [vibe](https://github.com/thewh1teagle/vibe) | Transcribe on your own! |
 <!-- LATEST_STARRED_REPOS_END -->
