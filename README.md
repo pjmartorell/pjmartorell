@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [smart_todo](https://github.com/Shopify/smart_todo) | Enhance TODO comment in your Ruby code |
 | [Roo-Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features |
 | [wllama](https://github.com/ngxson/wllama) | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference |
 | [sqids-ruby](https://github.com/sqids/sqids-ruby) | Official Ruby port of Sqids. Generate short unique IDs from numbers. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
 | [multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) | A react-based starter app for using the Multimodal Live API over websockets with Gemini |
 | [Agentless](https://github.com/OpenAutoCoder/Agentless) | Agentless🐱:  an agentless approach to automatically solve software development problems |
-| [metamotivo](https://github.com/facebookresearch/metamotivo) | The first behavioral foundation model to control a virtual physics-based humanoid agent for a wide range of whole-body tasks. |
 <!-- LATEST_STARRED_REPOS_END -->
