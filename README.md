@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
 | [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
 | [smart_todo](https://github.com/Shopify/smart_todo) | Enhance TODO comment in your Ruby code |
 | [Roo-Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. |
 | [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
-| [multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) | A react-based starter app for using the Multimodal Live API over websockets with Gemini |
 <!-- LATEST_STARRED_REPOS_END -->
