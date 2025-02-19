@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 | [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
 | [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
 | [smart_todo](https://github.com/Shopify/smart_todo) | Enhance TODO comment in your Ruby code |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [cookbook](https://github.com/mistralai/cookbook) |  |
 | [FastVideo](https://github.com/hao-ai-lab/FastVideo) | FastVideo is a lightweight framework for accelerating large video diffusion models. |
 | [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. |
-| [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
-| [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
 <!-- LATEST_STARRED_REPOS_END -->
