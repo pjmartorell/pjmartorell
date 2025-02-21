@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
 | [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 | [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [pgai](https://github.com/timescale/pgai) | A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL |
 | [cookbook](https://github.com/mistralai/cookbook) |  |
 | [FastVideo](https://github.com/hao-ai-lab/FastVideo) | FastVideo is a lightweight framework for accelerating large video diffusion models. |
-| [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. |
 <!-- LATEST_STARRED_REPOS_END -->
