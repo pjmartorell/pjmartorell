@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
 | [inferable](https://github.com/inferablehq/inferable) | Open-source platform for building secure, distributed AI agents guarded by durable execution. |
 | [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
 | [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
@@ -108,7 +109,7 @@ Tools and technologies I've played with..
 | [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
 | [GLM-Edge](https://github.com/THUDM/GLM-Edge) | GLM Series Edge Models |
 | [CogAgent](https://github.com/THUDM/CogAgent) | An open-sourced end-to-end VLM-based GUI Agent |
-| [MMAudio](https://github.com/hkchengrex/MMAudio) | [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
+| [MMAudio](https://github.com/hkchengrex/MMAudio) | [CVPR 2025] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
 | [webaudio-examples](https://github.com/mdn/webaudio-examples) | Code examples that accompany the MDN Web Docs pages relating to Web Audio. |
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
 | [strapi-starter](https://github.com/paloitsingapore/strapi-starter) |  |
 | [pgai](https://github.com/timescale/pgai) | A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL |
-| [cookbook](https://github.com/mistralai/cookbook) |  |
 <!-- LATEST_STARRED_REPOS_END -->
