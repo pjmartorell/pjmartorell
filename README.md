@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
 | [inferable](https://github.com/inferablehq/inferable) | Open-source platform for building secure, distributed AI agents guarded by durable execution. |
 | [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
 | [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
 | [strapi-starter](https://github.com/paloitsingapore/strapi-starter) |  |
-| [pgai](https://github.com/timescale/pgai) | A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL |
 <!-- LATEST_STARRED_REPOS_END -->
