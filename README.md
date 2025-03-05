@@ -79,7 +79,7 @@ Tools and technologies I've played with..
 |------------|-------------|
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
-| [inferable](https://github.com/inferablehq/inferable) | Open-source platform for building secure, distributed AI agents guarded by durable execution. |
+| [inferable](https://github.com/inferablehq/inferable) | The LLM-engineering platform. Structured outputs, durable workflows, human in the loop, and more in a managed platform. |
 | [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
 | [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
@@ -115,7 +115,7 @@ Tools and technologies I've played with..
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
 | [music-services](https://github.com/martypenner/music-services) | Self-hosted music services to share my music live with my friends. |
-| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper |
+| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG |
 | [LaVague](https://github.com/lavague-ai/LaVague) | Large Action Model framework to develop AI Web Agents |
 | [01](https://github.com/OpenInterpreter/01) | The #1 open-source voice interface for desktop, mobile, and ESP32 chips. |
 | [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers  |
