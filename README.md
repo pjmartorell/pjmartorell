@@ -79,7 +79,7 @@ Tools and technologies I've played with..
 |------------|-------------|
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
-| [inferable](https://github.com/inferablehq/inferable) | The LLM-engineering platform. Structured outputs, durable workflows, human in the loop, and more in a managed platform. |
+| [inferable](https://github.com/inferablehq/inferable) | The managed LLM-engineering platform. Structured outputs, durable workflows, human in the loop, and more with delightful DX. |
 | [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
 | [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
