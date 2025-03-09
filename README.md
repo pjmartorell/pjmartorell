@@ -122,7 +122,7 @@ Tools and technologies I've played with..
 | [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | A generative world for general-purpose robotics & embodied AI learning. |
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. |
-| [ai-prompts](https://github.com/Tolga1452/ai-prompts) | A collection of system prompts and tool data used for AI chatbots. |
+| [ai-prompts](https://github.com/Tolga1452/ai-prompts) | A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs! |
 | [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | A collection of prompts, system prompts and LLM instructions |
 | [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
 | [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
