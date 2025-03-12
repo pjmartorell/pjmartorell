@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
 | [inferable](https://github.com/inferablehq/inferable) | The managed LLM-engineering platform. Structured outputs, durable workflows, human in the loop, and more with delightful DX. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | A collection of prompts, system prompts and LLM instructions |
 | [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
 | [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
-| [strapi-starter](https://github.com/paloitsingapore/strapi-starter) |  |
 <!-- LATEST_STARRED_REPOS_END -->
