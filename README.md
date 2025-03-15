@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [next_rails](https://github.com/fastruby/next_rails) | A toolkit to upgrade your next Rails application  |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [ai-prompts](https://github.com/Tolga1452/ai-prompts) | A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs! |
 | [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | A collection of prompts, system prompts and LLM instructions |
 | [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
-| [turbostrapi](https://github.com/sawden/turbostrapi) | ⚡ TurboStrapi: The fast lane to kickstarting Strapi & Next.js projects. |
 <!-- LATEST_STARRED_REPOS_END -->
