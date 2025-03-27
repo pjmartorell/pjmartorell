@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
+| [agentscope](https://github.com/modelscope/agentscope) | Start building LLM-empowered multi-agent applications in an easier way. |
 | [next_rails](https://github.com/fastruby/next_rails) | A toolkit to upgrade your next Rails application  |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. |
 | [ai-prompts](https://github.com/Tolga1452/ai-prompts) | A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs! |
-| [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | A collection of prompts, system prompts and LLM instructions |
-| [LaunchPad](https://github.com/strapi/LaunchPad) | Official Strapi Demo application |
 <!-- LATEST_STARRED_REPOS_END -->
