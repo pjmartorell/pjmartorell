@@ -116,7 +116,7 @@ Tools and technologies I've played with..
 | [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
 | [GLM-Edge](https://github.com/THUDM/GLM-Edge) | GLM Series Edge Models |
 | [CogAgent](https://github.com/THUDM/CogAgent) | An open-sourced end-to-end VLM-based GUI Agent |
-| [MMAudio](https://github.com/hkchengrex/MMAudio) | [CVPR 2025] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
+| [MMAudio](https://github.com/hkchengrex/MMAudio) | [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
 | [webaudio-examples](https://github.com/mdn/webaudio-examples) | Code examples that accompany the MDN Web Docs pages relating to Web Audio. |
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
