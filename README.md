@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model |
 | [fast-agent](https://github.com/evalstate/fast-agent) | Define, Prompt and Test MCP enabled Agents and Workflows |
 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
 | [docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 | [LaVague](https://github.com/lavague-ai/LaVague) | Large Action Model framework to develop AI Web Agents |
 | [01](https://github.com/OpenInterpreter/01) | The #1 open-source voice interface for desktop, mobile, and ESP32 chips. |
-| [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers  |
 <!-- LATEST_STARRED_REPOS_END -->
