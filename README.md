@@ -100,7 +100,7 @@ Tools and technologies I've played with..
 | [wllama](https://github.com/ngxson/wllama) | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference |
 | [sqids-ruby](https://github.com/sqids/sqids-ruby) | Official Ruby port of Sqids. Generate short unique IDs from numbers. |
 | [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
+| [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone |
 | [value-object-in-ruby-benchmarks](https://github.com/lucianghinda/value-object-in-ruby-benchmarks) | A series of micro benchmarks about Data.define vs Struct vs OpenStruct in #Ruby |
 | [notebookLM](https://github.com/NimaMan/notebookLM) | An Open Source implementation of Notebook LM with more flexibility and features |
 | [chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM |
