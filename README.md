@@ -83,7 +83,7 @@ Tools and technologies I've played with..
 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
 | [docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. |
 | [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
 | [agentscope](https://github.com/modelscope/agentscope) | Start building LLM-empowered multi-agent applications in an easier way. |
 | [next_rails](https://github.com/fastruby/next_rails) | A toolkit to upgrade your next Rails application  |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
