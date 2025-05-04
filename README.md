@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [switchman](https://github.com/instructure/switchman) |  |
 | [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced browser fingerprinting library. |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model |
 | [fast-agent](https://github.com/evalstate/fast-agent) | Define, Prompt and Test MCP enabled Agents and Workflows |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
 | [music-services](https://github.com/martypenner/music-services) | Self-hosted music services to share my music live with my friends. |
 | [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
-| [LaVague](https://github.com/lavague-ai/LaVague) | Large Action Model framework to develop AI Web Agents |
 <!-- LATEST_STARRED_REPOS_END -->
