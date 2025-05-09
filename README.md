@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
 | [polaris](https://github.com/Shopify/polaris) | Shopify’s design system to help us work together to build a great experience for all of our merchants. |
 | [remote-dom](https://github.com/Shopify/remote-dom) |  |
 | [switchman](https://github.com/instructure/switchman) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [MMAudio](https://github.com/hkchengrex/MMAudio) | [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
 | [webaudio-examples](https://github.com/mdn/webaudio-examples) | Code examples that accompany the MDN Web Docs pages relating to Web Audio. |
 | [spark](https://github.com/hotwired/spark) | Hot reloading for Hotwire |
-| [simple-goals2](https://github.com/martypenner/simple-goals2) | A very simple goals app written for a friend |
 <!-- LATEST_STARRED_REPOS_END -->
