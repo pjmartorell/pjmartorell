@@ -69,7 +69,7 @@ Tools and technologies I've played with..
 <!-- LATEST_CONTRIBUTIONS_START -->
 ## 🤝 Latest Contributions to OSS
 
-- [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial): [1 commits](https://github.com/pjmartorell?tab=overview&from=2024-05-01&to=2024-05-31), [3 commits](https://github.com/pjmartorell?tab=overview&from=2024-05-01&to=2024-05-31)
+
 <!-- LATEST_CONTRIBUTIONS_END -->
 
 <!-- LATEST_STARRED_REPOS_START -->
