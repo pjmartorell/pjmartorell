@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) |
+| [mcp-remote](https://github.com/geelen/mcp-remote) |  |
 | [3d-bin-packing](https://github.com/dwave-examples/3d-bin-packing) | Use a hybrid solver to use the minimum number of bins to pack items with different dimensions |
 | [plane](https://github.com/jamsocket/plane) | A distributed system for running WebSocket services at scale. |
 | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
 | [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
 | [GLM-Edge](https://github.com/THUDM/GLM-Edge) | GLM Series Edge Models |
-| [CogAgent](https://github.com/THUDM/CogAgent) | An open-sourced end-to-end VLM-based GUI Agent |
-| [MMAudio](https://github.com/hkchengrex/MMAudio) | [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis |
 <!-- LATEST_STARRED_REPOS_END -->
