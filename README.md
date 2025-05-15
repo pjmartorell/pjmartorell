@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [cursor_rules](https://github.com/Mawla/cursor_rules) | Behaviour for cursor |
 | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) |
 | [mcp-remote](https://github.com/geelen/mcp-remote) |  |
 | [3d-bin-packing](https://github.com/dwave-examples/3d-bin-packing) | Use a hybrid solver to use the minimum number of bins to pack items with different dimensions |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js |
 | [trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
 | [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
-| [GLM-Edge](https://github.com/THUDM/GLM-Edge) | GLM Series Edge Models |
 <!-- LATEST_STARRED_REPOS_END -->
