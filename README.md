@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [genai-toolbox](https://github.com/googleapis/genai-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases. |
 | [cursor_rules](https://github.com/Mawla/cursor_rules) | Behaviour for cursor |
 | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) |
 | [mcp-remote](https://github.com/geelen/mcp-remote) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
 | [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js |
 | [trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
-| [WebRL](https://github.com/THUDM/WebRL) | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
 <!-- LATEST_STARRED_REPOS_END -->
