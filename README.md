@@ -106,7 +106,7 @@ Tools and technologies I've played with..
 | [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
 | [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
 | [smart_todo](https://github.com/Shopify/smart_todo) | Enhance TODO comment in your Ruby code |
-| [Roo-Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. |
+| [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. |
 | [wllama](https://github.com/ngxson/wllama) | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference |
 | [sqids-ruby](https://github.com/sqids/sqids-ruby) | Official Ruby port of Sqids. Generate short unique IDs from numbers. |
 | [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
