@@ -101,7 +101,7 @@ Tools and technologies I've played with..
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
 | [inferable](https://github.com/inferablehq/inferable) | Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution. |
 | [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
-| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
+| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 | [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
 | [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
