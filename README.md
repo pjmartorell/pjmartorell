@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [ruby_llm](https://github.com/crmne/ruby_llm) | Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration. |
 | [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) | A self-hosted open source application for managing your invoices, clients and payments. |
 | [genai-toolbox](https://github.com/googleapis/genai-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases. |
 | [cursor_rules](https://github.com/Mawla/cursor_rules) | Behaviour for cursor |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [langchainrb_rails](https://github.com/patterns-ai-core/langchainrb_rails) |  |
 | [hr-hrv](https://github.com/ronibandini/hr-hrv) | ECG stress detection with Machine Learning HR/HRV |
 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js |
 <!-- LATEST_STARRED_REPOS_END -->
