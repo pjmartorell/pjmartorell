@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | Get started with building Fullstack Agents using Gemini 2.5 and LangGraph |
 | [Baileys](https://github.com/WhiskeySockets/Baileys) | Lightweight full-featured typescript/javascript WhatsApp Web API |
 | [ruby_llm](https://github.com/crmne/ruby_llm) | Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration. |
 | [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) | A self-hosted open source application for managing your invoices, clients and payments. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [awesome-L402](https://github.com/Fewsats/awesome-L402) | A curated list of awesome things related to L402 ⚡ |
 | [NotallyX](https://github.com/PhilKes/NotallyX) | Minimalistic Android note taking App | Notally, but eXtended. |
 | [langchainrb_rails](https://github.com/patterns-ai-core/langchainrb_rails) |  |
-| [hr-hrv](https://github.com/ronibandini/hr-hrv) | ECG stress detection with Machine Learning HR/HRV |
 <!-- LATEST_STARRED_REPOS_END -->
