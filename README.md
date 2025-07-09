@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more |
 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. |
 | [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | Get started with building Fullstack Agents using Gemini 2.5 and LangGraph |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [agent-zero](https://github.com/frdel/agent-zero) | Agent Zero AI framework |
 | [o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) | An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. |
 | [Real-time-voice-ultra-simple-template-with-function-calling](https://github.com/echohive42/Real-time-voice-ultra-simple-template-with-function-calling) | OpenAI real-time voice Fastapi template with function calling with maximum simplicity. comes with arxiv paper function as an example and full event capture |
-| [awesome-L402](https://github.com/Fewsats/awesome-L402) | A curated list of awesome things related to L402 ⚡ |
 <!-- LATEST_STARRED_REPOS_END -->
