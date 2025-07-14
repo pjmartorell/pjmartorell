@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [passenger](https://github.com/paketo-buildpacks/passenger) |  |
 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more |
 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [xyflow](https://github.com/xyflow/xyflow) | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
 | [agent-zero](https://github.com/frdel/agent-zero) | Agent Zero AI framework |
 | [o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) | An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. |
-| [Real-time-voice-ultra-simple-template-with-function-calling](https://github.com/echohive42/Real-time-voice-ultra-simple-template-with-function-calling) | OpenAI real-time voice Fastapi template with function calling with maximum simplicity. comes with arxiv paper function as an example and full event capture |
 <!-- LATEST_STARRED_REPOS_END -->
