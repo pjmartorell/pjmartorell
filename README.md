@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [magspoof](https://github.com/samyk/magspoof) | A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy. |
+| [ruby-docker](https://github.com/GoogleCloudPlatform/ruby-docker) | Ruby runtime for Google Cloud Platform |
 | [passenger](https://github.com/paketo-buildpacks/passenger) |  |
 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more |
 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks |
 | [frankenthought-chat](https://github.com/echohive42/frankenthought-chat) | uses all reasoning models in parallel and synthesizes an answer with o1. also has multi-chat where you can chat with any of them |
 | [xyflow](https://github.com/xyflow/xyflow) | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
-| [agent-zero](https://github.com/frdel/agent-zero) | Agent Zero AI framework |
-| [o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) | An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. |
 <!-- LATEST_STARRED_REPOS_END -->
