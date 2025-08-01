@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [sure](https://github.com/we-promise/sure) | (community maintained, FKA `maybe`) The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
 | [magspoof](https://github.com/samyk/magspoof) | A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy. |
 | [ruby-docker](https://github.com/GoogleCloudPlatform/ruby-docker) | Ruby runtime for Google Cloud Platform |
 | [passenger](https://github.com/paketo-buildpacks/passenger) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM |
 | [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks |
 | [frankenthought-chat](https://github.com/echohive42/frankenthought-chat) | uses all reasoning models in parallel and synthesizes an answer with o1. also has multi-chat where you can chat with any of them |
-| [xyflow](https://github.com/xyflow/xyflow) | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
 <!-- LATEST_STARRED_REPOS_END -->
