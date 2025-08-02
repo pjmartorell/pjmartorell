@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [firedup](https://github.com/kashif/firedup) | Clone of OpenAI's Spinning Up in PyTorch |
 | [sure](https://github.com/we-promise/sure) | (community maintained, FKA `maybe`) The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
 | [magspoof](https://github.com/samyk/magspoof) | A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy. |
 | [ruby-docker](https://github.com/GoogleCloudPlatform/ruby-docker) | Ruby runtime for Google Cloud Platform |
@@ -117,7 +118,7 @@ Tools and technologies I've played with..
 | [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
 | [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
 | [smart_todo](https://github.com/Shopify/smart_todo) | Enhance TODO comment in your Ruby code |
-| [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. |
+| [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. |
 | [wllama](https://github.com/ngxson/wllama) | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference |
 | [sqids-ruby](https://github.com/sqids/sqids-ruby) | Official Ruby port of Sqids. Generate short unique IDs from numbers. |
 | [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [notebookLM](https://github.com/NimaMan/notebookLM) | An Open Source implementation of Notebook LM with more flexibility and features |
 | [chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM |
 | [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks |
-| [frankenthought-chat](https://github.com/echohive42/frankenthought-chat) | uses all reasoning models in parallel and synthesizes an answer with o1. also has multi-chat where you can chat with any of them |
 <!-- LATEST_STARRED_REPOS_END -->
