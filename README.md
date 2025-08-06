@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| [graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents |
 | [firedup](https://github.com/kashif/firedup) | Clone of OpenAI's Spinning Up in PyTorch |
 | [sure](https://github.com/we-promise/sure) | (community maintained, FKA `maybe`) The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
 | [magspoof](https://github.com/samyk/magspoof) | A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy. |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone |
 | [value-object-in-ruby-benchmarks](https://github.com/lucianghinda/value-object-in-ruby-benchmarks) | A series of micro benchmarks about Data.define vs Struct vs OpenStruct in #Ruby |
 | [notebookLM](https://github.com/NimaMan/notebookLM) | An Open Source implementation of Notebook LM with more flexibility and features |
-| [chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM |
-| [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks |
 <!-- LATEST_STARRED_REPOS_END -->
