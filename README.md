@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
 | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
 | [graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents |
 | [firedup](https://github.com/kashif/firedup) | Clone of OpenAI's Spinning Up in PyTorch |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
 | [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone |
 | [value-object-in-ruby-benchmarks](https://github.com/lucianghinda/value-object-in-ruby-benchmarks) | A series of micro benchmarks about Data.define vs Struct vs OpenStruct in #Ruby |
-| [notebookLM](https://github.com/NimaMan/notebookLM) | An Open Source implementation of Notebook LM with more flexibility and features |
 <!-- LATEST_STARRED_REPOS_END -->
