@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
 | [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
 | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
 | [graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents |
@@ -109,7 +110,7 @@ Tools and technologies I've played with..
 | [docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  |
 | [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
-| [agentscope](https://github.com/modelscope/agentscope) | Start building LLM-empowered multi-agent applications in an easier way. |
+| [agentscope](https://github.com/agentscope-ai/agentscope) | Start building LLM-empowered multi-agent applications in an easier way. |
 | [next_rails](https://github.com/fastruby/next_rails) | A toolkit to upgrade your next Rails application  |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [sqids-ruby](https://github.com/sqids/sqids-ruby) | Official Ruby port of Sqids. Generate short unique IDs from numbers. |
 | [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
 | [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone |
-| [value-object-in-ruby-benchmarks](https://github.com/lucianghinda/value-object-in-ruby-benchmarks) | A series of micro benchmarks about Data.define vs Struct vs OpenStruct in #Ruby |
 <!-- LATEST_STARRED_REPOS_END -->
