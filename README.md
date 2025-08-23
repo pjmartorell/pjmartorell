@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [omarchy](https://github.com/basecamp/omarchy) | Opinionated Arch/Hyprland Setup |
+| [action_native_push](https://github.com/basecamp/action_native_push) | Rails push notifications for mobile platforms |
 | [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
 | [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
 | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. |
 | [wllama](https://github.com/ngxson/wllama) | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference |
 | [sqids-ruby](https://github.com/sqids/sqids-ruby) | Official Ruby port of Sqids. Generate short unique IDs from numbers. |
-| [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) | This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. |
-| [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone |
 <!-- LATEST_STARRED_REPOS_END -->
