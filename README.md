@@ -78,7 +78,7 @@ Tools and technologies I've played with..
 | Repository | Description |
 |------------|-------------|
 | [omarchy](https://github.com/basecamp/omarchy) | Opinionated Arch/Hyprland Setup |
-| [action_native_push](https://github.com/basecamp/action_native_push) | Rails push notifications for mobile platforms |
+| [action_push_native](https://github.com/basecamp/action_push_native) | Rails push notifications for mobile platforms |
 | [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
 | [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
 | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
@@ -93,7 +93,7 @@ Tools and technologies I've played with..
 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. |
 | [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | Get started with building Fullstack Agents using Gemini 2.5 and LangGraph |
 | [Baileys](https://github.com/WhiskeySockets/Baileys) | Lightweight full-featured typescript/javascript WhatsApp Web API |
-| [ruby_llm](https://github.com/crmne/ruby_llm) | One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration. |
+| [ruby_llm](https://github.com/crmne/ruby_llm) | One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration. |
 | [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) | A self-hosted open source application for managing your invoices, clients and payments. |
 | [genai-toolbox](https://github.com/googleapis/genai-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases. |
 | [cursor_rules](https://github.com/Mawla/cursor_rules) | Behaviour for cursor |
@@ -112,7 +112,7 @@ Tools and technologies I've played with..
 | [docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  |
 | [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
-| [agentscope](https://github.com/agentscope-ai/agentscope) | Start building LLM-empowered multi-agent applications in an easier way. |
+| [agentscope](https://github.com/agentscope-ai/agentscope) | AgentScope: Agent-Oriented Programming for Building LLM Applications |
 | [next_rails](https://github.com/fastruby/next_rails) | A toolkit to upgrade your next Rails application  |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
