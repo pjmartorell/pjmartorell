@@ -78,7 +78,7 @@ Tools and technologies I've played with..
 | Repository | Description |
 |------------|-------------|
 | [omarchy](https://github.com/basecamp/omarchy) | Opinionated Arch/Hyprland Setup |
-| [action_push_native](https://github.com/basecamp/action_push_native) | Rails push notifications for mobile platforms |
+| [action_push_native](https://github.com/rails/action_push_native) | Rails push notifications for mobile platforms |
 | [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
 | [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
 | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
