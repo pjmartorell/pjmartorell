@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 | [akaunting](https://github.com/akaunting/akaunting) | Online Accounting Software |
 | [robodash](https://github.com/Bramjetten/robodash) |  |
 | [omarchy](https://github.com/basecamp/omarchy) | Opinionated Arch/Hyprland Setup |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
 | [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
 | [smart_todo](https://github.com/Shopify/smart_todo) | Enhance TODO comment in your Ruby code |
-| [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. |
 <!-- LATEST_STARRED_REPOS_END -->
