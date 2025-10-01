@@ -106,7 +106,7 @@ Tools and technologies I've played with..
 | [3d-bin-packing](https://github.com/dwave-examples/3d-bin-packing) | Use a hybrid solver to use the minimum number of bins to pack items with different dimensions |
 | [plane](https://github.com/jamsocket/plane) | A distributed system for running WebSocket services at scale. |
 | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
-| [polaris](https://github.com/Shopify/polaris) | Shopify’s design system to help us work together to build a great experience for all of our merchants. |
+| [polaris-react](https://github.com/Shopify/polaris-react) | Shopify's Polaris Design System - React implementation (Deprecated) |
 | [remote-dom](https://github.com/Shopify/remote-dom) |  |
 | [switchman](https://github.com/instructure/switchman) |  |
 | [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced browser fingerprinting library. |
