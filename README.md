@@ -77,6 +77,10 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [anythingllm-embed](https://github.com/Mintplex-Labs/anythingllm-embed) | AnythingLLM Embed widget submodule for the main AnythingLLM application |
+| [magnitude](https://github.com/sagekit/magnitude) | Open-source, vision-first browser agent |
+| [cdp-use](https://github.com/browser-use/cdp-use) | 🩹Pure CDP but type-safe in Python |
+| [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [HeadlessX](https://github.com/saifyxpro/HeadlessX) | A lightweight, self-hosted headless browser automation platform. Designed as an alternative to Browserless, built for speed, privacy, and scalability. |
 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 | [akaunting](https://github.com/akaunting/akaunting) | Online Accounting Software |
@@ -123,8 +127,4 @@ Tools and technologies I've played with..
 | [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
 | [inferable](https://github.com/inferablehq/inferable) | Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution. |
 | [keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. |
-| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
-| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
-| [awesome-turing-tumble](https://github.com/fadado/awesome-turing-tumble) | A curated list of awesome Turing Tumble resources |
-| [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
 <!-- LATEST_STARRED_REPOS_END -->
