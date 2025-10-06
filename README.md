@@ -77,9 +77,9 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [workflow-use](https://github.com/browser-use/workflow-use) | ⚙️ Create and run workflows (RPA 2.0) |
 | [anythingllm-embed](https://github.com/Mintplex-Labs/anythingllm-embed) | AnythingLLM Embed widget submodule for the main AnythingLLM application |
 | [magnitude](https://github.com/sagekit/magnitude) | Open-source, vision-first browser agent |
-| [cdp-use](https://github.com/browser-use/cdp-use) | 🩹Pure CDP but type-safe in Python |
 | [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [HeadlessX](https://github.com/saifyxpro/HeadlessX) | A lightweight, self-hosted headless browser automation platform. Designed as an alternative to Browserless, built for speed, privacy, and scalability. |
 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
