@@ -77,6 +77,10 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [context7](https://github.com/upstash/context7) | Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors |
+| [inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers |
+| [agents.md](https://github.com/openai/agents.md) | AGENTS.md — a simple, open format for guiding coding agents |
+| [visual-effect](https://github.com/kitlangton/visual-effect) | Interactive Effect Visualizations |
 | [payload](https://github.com/payloadcms/payload) | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. |
 | [DAWN](https://github.com/berlin-open-wireless-lab/DAWN) | Decentralized WiFi Controller |
 | [workflow-use](https://github.com/browser-use/workflow-use) | ⚙️ Create and run workflows (RPA 2.0) |
@@ -123,8 +127,4 @@ Tools and technologies I've played with..
 | [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
 | [agentscope](https://github.com/agentscope-ai/agentscope) | AgentScope: Agent-Oriented Programming for Building LLM Applications |
-| [next_rails](https://github.com/fastruby/next_rails) | A toolkit to upgrade your next Rails application  |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [pghero](https://github.com/ankane/pghero) | A performance dashboard for Postgres |
-| [permify](https://github.com/Permify/permify) | An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. |
 <!-- LATEST_STARRED_REPOS_END -->
