@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
 | [context7](https://github.com/upstash/context7) | Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors |
 | [inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers |
 | [agents.md](https://github.com/openai/agents.md) | AGENTS.md — a simple, open format for guiding coding agents |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  |
 | [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
-| [agentscope](https://github.com/agentscope-ai/agentscope) | AgentScope: Agent-Oriented Programming for Building LLM Applications |
 <!-- LATEST_STARRED_REPOS_END -->
