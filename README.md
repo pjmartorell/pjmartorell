@@ -120,7 +120,7 @@ Tools and technologies I've played with..
 | [polaris-react](https://github.com/Shopify/polaris-react) | Shopify's Polaris Design System - React implementation (Deprecated) |
 | [remote-dom](https://github.com/Shopify/remote-dom) |  |
 | [switchman](https://github.com/instructure/switchman) |  |
-| [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced browser fingerprinting library. |
+| [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced open-source browser fingerprinting library |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model |
 | [fast-agent](https://github.com/evalstate/fast-agent) | Define, Prompt and Test MCP enabled Agents and Workflows |
 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
