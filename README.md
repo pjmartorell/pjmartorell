@@ -77,6 +77,10 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) | A collection of guides and examples for the Gemma open models from Google. |
+| [maxheadbox](https://github.com/syxanash/maxheadbox) | Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi |
+| [magnus](https://github.com/matsadler/magnus) | Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust. |
 | [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
 | [context7](https://github.com/upstash/context7) | Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors |
 | [inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers |
@@ -123,8 +127,4 @@ Tools and technologies I've played with..
 | [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced open-source browser fingerprinting library |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model |
 | [fast-agent](https://github.com/evalstate/fast-agent) | Define, Prompt and Test MCP enabled Agents and Workflows |
-| [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers |
-| [docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  |
-| [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  |
 <!-- LATEST_STARRED_REPOS_END -->
