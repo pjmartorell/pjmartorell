@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. |
 | [gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 | [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) | A collection of guides and examples for the Gemma open models from Google. |
 | [maxheadbox](https://github.com/syxanash/maxheadbox) | Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi |
@@ -96,7 +97,7 @@ Tools and technologies I've played with..
 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 | [akaunting](https://github.com/akaunting/akaunting) | Online Accounting Software |
 | [robodash](https://github.com/Bramjetten/robodash) |  |
-| [omarchy](https://github.com/basecamp/omarchy) | Opinionated Arch/Hyprland Setup |
+| [omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux |
 | [action_push_native](https://github.com/rails/action_push_native) | Rails push notifications for mobile platforms |
 | [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
 | [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [switchman](https://github.com/instructure/switchman) |  |
 | [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced open-source browser fingerprinting library |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model |
-| [fast-agent](https://github.com/evalstate/fast-agent) | Define, Prompt and Test MCP enabled Agents and Workflows |
 <!-- LATEST_STARRED_REPOS_END -->
