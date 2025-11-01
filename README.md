@@ -104,7 +104,7 @@ Tools and technologies I've played with..
 | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
 | [graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents |
 | [firedup](https://github.com/kashif/firedup) | Clone of OpenAI's Spinning Up in PyTorch |
-| [sure](https://github.com/we-promise/sure) | (community maintained, FKA `maybe`) The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
+| [sure](https://github.com/we-promise/sure) | The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
 | [magspoof](https://github.com/samyk/magspoof) | A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy. |
 | [ruby-docker](https://github.com/GoogleCloudPlatform/ruby-docker) | Ruby runtime for Google Cloud Platform |
 | [passenger](https://github.com/paketo-buildpacks/passenger) |  |
