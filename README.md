@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [atlassian-rovo-source-code-z80-dump](https://github.com/ghuntley/atlassian-rovo-source-code-z80-dump) | Complete reverse engineering of Atlassian ACLI Rovo Dev binary - extracted source code, system prompts, and technical analysis |
 | [open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. |
 | [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. |
 | [gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [polaris-react](https://github.com/Shopify/polaris-react) | Shopify's Polaris Design System - React implementation (Deprecated) |
 | [remote-dom](https://github.com/Shopify/remote-dom) |  |
 | [switchman](https://github.com/instructure/switchman) |  |
-| [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | The most advanced open-source browser fingerprinting library |
 <!-- LATEST_STARRED_REPOS_END -->
