@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of 18 specialized AI agents for Rails 8.1 development, for AI driven-development and follow TDD best practices. |
+| [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
 | [htmldocs](https://github.com/htmldocs-js/htmldocs) | The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind |
 | [tweakcn](https://github.com/jnsahaj/tweakcn) | A visual no-code theme editor for shadcn/ui components |
 | [composio](https://github.com/ComposioHQ/composio) | Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling |
@@ -90,7 +92,7 @@ Tools and technologies I've played with..
 | [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
 | [context7](https://github.com/upstash/context7) | Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors |
 | [inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers |
-| [agents.md](https://github.com/openai/agents.md) | AGENTS.md — a simple, open format for guiding coding agents |
+| [agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents |
 | [visual-effect](https://github.com/kitlangton/visual-effect) | Interactive Effect Visualizations |
 | [payload](https://github.com/payloadcms/payload) | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. |
 | [DAWN](https://github.com/berlin-open-wireless-lab/DAWN) | Decentralized WiFi Controller |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [mcp-remote](https://github.com/geelen/mcp-remote) |  |
 | [3d-bin-packing](https://github.com/dwave-examples/3d-bin-packing) | Use a hybrid solver to use the minimum number of bins to pack items with different dimensions |
 | [plane](https://github.com/jamsocket/plane) | A distributed system for running WebSocket services at scale. |
-| [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
-| [polaris-react](https://github.com/Shopify/polaris-react) | Shopify's Polaris Design System - React implementation (Deprecated) |
 <!-- LATEST_STARRED_REPOS_END -->
