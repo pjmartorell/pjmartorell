@@ -77,7 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
-| [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of 18 specialized AI agents for Rails 8.1 development, for AI driven-development and follow TDD best practices. |
+| [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of specialized AI agents for Rails 8.1 development, for AI driven-development and follow TDD best practices. |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
 | [htmldocs](https://github.com/htmldocs-js/htmldocs) | The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind |
 | [tweakcn](https://github.com/jnsahaj/tweakcn) | A visual no-code theme editor for shadcn/ui components |
