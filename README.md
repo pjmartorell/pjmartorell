@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [mcp](https://github.com/awslabs/mcp) | AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. |
 | [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of specialized AI agents for Rails 8.1 development, for AI driven-development and follow TDD best practices. |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
 | [htmldocs](https://github.com/htmldocs-js/htmldocs) | The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) |
 | [mcp-remote](https://github.com/geelen/mcp-remote) |  |
 | [3d-bin-packing](https://github.com/dwave-examples/3d-bin-packing) | Use a hybrid solver to use the minimum number of bins to pack items with different dimensions |
-| [plane](https://github.com/jamsocket/plane) | A distributed system for running WebSocket services at scale. |
 <!-- LATEST_STARRED_REPOS_END -->
