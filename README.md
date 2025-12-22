@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. |
 | [mcp](https://github.com/awslabs/mcp) | AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. |
 | [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of specialized AI agents for Rails 8.1 development, for AI driven-development and follow TDD best practices. |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [genai-toolbox](https://github.com/googleapis/genai-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases. |
 | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) |
 | [mcp-remote](https://github.com/geelen/mcp-remote) |  |
-| [3d-bin-packing](https://github.com/dwave-examples/3d-bin-packing) | Use a hybrid solver to use the minimum number of bins to pack items with different dimensions |
 <!-- LATEST_STARRED_REPOS_END -->
