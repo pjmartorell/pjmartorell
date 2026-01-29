@@ -104,7 +104,7 @@ Tools and technologies I've played with..
 | [anythingllm-embed](https://github.com/Mintplex-Labs/anythingllm-embed) | AnythingLLM Embed widget submodule for the main AnythingLLM application |
 | [magnitude](https://github.com/sagekit/magnitude) | Open-source, vision-first browser agent |
 | [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| [HeadlessX](https://github.com/saifyxpro/HeadlessX) | A lightweight, self-hosted headless browser automation platform. Designed as an alternative to Browserless, built for speed, privacy, and scalability. |
+| [HeadlessX](https://github.com/saifyxpro/HeadlessX) | The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability. |
 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 | [akaunting](https://github.com/akaunting/akaunting) | Online Accounting Software |
 | [robodash](https://github.com/Bramjetten/robodash) |  |
