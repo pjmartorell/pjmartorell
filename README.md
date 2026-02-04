@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [BetterShift](https://github.com/panteLx/BetterShift) | Your favorite shift management application! |
 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 | [SMRY](https://github.com/mrmps/SMRY) | A tool to get summaries and get past paywalls |
 | [Harmony-Music](https://github.com/anandnet/Harmony-Music) | A cross platform App for streaming Music |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | Get started with building Fullstack Agents using Gemini 2.5 and LangGraph |
 | [Baileys](https://github.com/WhiskeySockets/Baileys) | Socket-based TS/JavaScript API for WhatsApp Web |
 | [ruby_llm](https://github.com/crmne/ruby_llm) | One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration. |
-| [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) | A self-hosted open source application for managing your invoices, clients and payments. |
 <!-- LATEST_STARRED_REPOS_END -->
