@@ -69,7 +69,7 @@ Tools and technologies I've played with..
 <!-- LATEST_CONTRIBUTIONS_START -->
 ## 🤝 Latest Contributions to OSS
 
-
+- [procore-oss/migration-lock-timeout](https://github.com/procore-oss/migration-lock-timeout): [1 commits](https://github.com/pjmartorell?tab=overview&from=2025-10-01&to=2025-10-31)
 <!-- LATEST_CONTRIBUTIONS_END -->
 
 <!-- LATEST_STARRED_REPOS_START -->
