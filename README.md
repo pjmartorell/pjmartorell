@@ -82,7 +82,7 @@ Tools and technologies I've played with..
 | [SMRY](https://github.com/mrmps/SMRY) | A tool to get summaries and get past paywalls |
 | [Harmony-Music](https://github.com/anandnet/Harmony-Music) | A cross platform App for streaming Music |
 | [server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. |
-| [mcp](https://github.com/awslabs/mcp) | Official AWS MCP Servers |
+| [mcp](https://github.com/awslabs/mcp) | Official MCP Servers for AWS |
 | [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of specialized AI agents for Rails 8.1 development, for AI driven-development and follow TDD best practices. |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
 | [htmldocs](https://github.com/htmldocs-js/htmldocs) | The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind |
