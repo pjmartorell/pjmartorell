@@ -96,7 +96,7 @@ Tools and technologies I've played with..
 | [open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. |
 | [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. |
 | [gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
-| [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) | A collection of guides and examples for the Gemma open models from Google. |
+| [cookbook](https://github.com/google-gemma/cookbook) | A collection of guides and examples for the Gemma open models from Google. |
 | [maxheadbox](https://github.com/syxanash/maxheadbox) | Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi |
 | [magnus](https://github.com/matsadler/magnus) | Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust. |
 | [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
