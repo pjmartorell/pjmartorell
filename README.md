@@ -87,7 +87,7 @@ Tools and technologies I've played with..
 | [Harmony-Music](https://github.com/anandnet/Harmony-Music) | A cross platform App for streaming Music |
 | [server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. |
 | [mcp](https://github.com/awslabs/mcp) | Official MCP Servers for AWS |
-| [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | A collection of specialized AI skills, agents, rules and hooks for modern Rails AI driven-development. |
+| [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | Specialized AI skills, agents, rules and hooks for modern Rails AI driven-development + Spec-Driven-Development kit |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
 | [htmldocs](https://github.com/htmldocs-js/htmldocs) | The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind |
 | [tweakcn](https://github.com/jnsahaj/tweakcn) | A visual no-code theme editor for shadcn/ui components |
