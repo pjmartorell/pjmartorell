@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [skills](https://github.com/android/skills) |  |
+| [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
 | [agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. |
 | [adk-samples](https://github.com/google/adk-samples) | A collection of sample agents built with Agent Development Kit (ADK)  |
 | [kohya_ss](https://github.com/bmaltais/kohya_ss) |  |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents |
 | [firedup](https://github.com/kashif/firedup) | Clone of OpenAI's Spinning Up in PyTorch |
 | [sure](https://github.com/we-promise/sure) | The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
-| [magspoof](https://github.com/samyk/magspoof) | A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy. |
-| [ruby-docker](https://github.com/GoogleCloudPlatform/ruby-docker) | Ruby runtime for Google Cloud Platform |
 <!-- LATEST_STARRED_REPOS_END -->
