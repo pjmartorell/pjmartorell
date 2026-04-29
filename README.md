@@ -77,6 +77,10 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
+| [cursor-marketplace-lib](https://github.com/loyalguru/cursor-marketplace-lib) |  |
+| [mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides  |
+| [knowledge-rag](https://github.com/lyonzin/knowledge-rag) | Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid search + reranking. Zero servers, zero API keys, 100% local. |
 | [spinel](https://github.com/matz/spinel) |  |
 | [skills](https://github.com/android/skills) |  |
 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
@@ -123,8 +127,4 @@ Tools and technologies I've played with..
 | [omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux |
 | [action_push_native](https://github.com/rails/action_push_native) | Rails push notifications for mobile platforms |
 | [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
-| [mastra-pm-canvas](https://github.com/CopilotKit/mastra-pm-canvas) |  |
-| [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| [graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents |
-| [firedup](https://github.com/kashif/firedup) | Clone of OpenAI's Spinning Up in PyTorch |
 <!-- LATEST_STARRED_REPOS_END -->
