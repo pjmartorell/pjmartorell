@@ -77,6 +77,9 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [orama](https://github.com/oramasearch/orama) | 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server |
+| [cookbook](https://github.com/cursor/cookbook) |  |
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 | [cursor-marketplace-lib](https://github.com/loyalguru/cursor-marketplace-lib) |  |
 | [mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides  |
@@ -124,7 +127,4 @@ Tools and technologies I've played with..
 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 | [akaunting](https://github.com/akaunting/akaunting) | Online Accounting Software |
 | [robodash](https://github.com/Bramjetten/robodash) |  |
-| [omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux |
-| [action_push_native](https://github.com/rails/action_push_native) | Rails push notifications for mobile platforms |
-| [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models |
 <!-- LATEST_STARRED_REPOS_END -->
