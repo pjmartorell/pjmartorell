@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training automatically |
 | [orama](https://github.com/oramasearch/orama) | 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server |
 | [cookbook](https://github.com/cursor/cookbook) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [HeadlessX](https://github.com/saifyxpro/HeadlessX) | The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability. |
 | [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 | [akaunting](https://github.com/akaunting/akaunting) | Online Accounting Software |
-| [robodash](https://github.com/Bramjetten/robodash) |  |
 <!-- LATEST_STARRED_REPOS_END -->
