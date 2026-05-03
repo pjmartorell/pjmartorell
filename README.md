@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. |
+| [cursortrack](https://github.com/jeremypot/cursortrack) | Track cursor usage |
 | [vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. |
 | [autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training automatically |
 | [orama](https://github.com/oramasearch/orama) | 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [anythingllm-embed](https://github.com/Mintplex-Labs/anythingllm-embed) | AnythingLLM Embed widget submodule for the main AnythingLLM application |
 | [browser-agent](https://github.com/magnitudedev/browser-agent) | Open-source, vision-first browser agent |
 | [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| [HeadlessX](https://github.com/saifyxpro/HeadlessX) | The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability. |
-| [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 |
 <!-- LATEST_STARRED_REPOS_END -->
