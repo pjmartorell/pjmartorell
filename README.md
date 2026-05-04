@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [gemini-watermark-remover](https://github.com/mailshere212-ux/gemini-watermark-remover) | Tool to remove Gemini AI & Nanobanana watermarks from Images |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. |
 | [cursortrack](https://github.com/jeremypot/cursortrack) | Track cursor usage |
 | [vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [workflow-use](https://github.com/browser-use/workflow-use) | ⚙️ Create and run workflows (RPA 2.0) |
 | [anythingllm-embed](https://github.com/Mintplex-Labs/anythingllm-embed) | AnythingLLM Embed widget submodule for the main AnythingLLM application |
 | [browser-agent](https://github.com/magnitudedev/browser-agent) | Open-source, vision-first browser agent |
-| [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 <!-- LATEST_STARRED_REPOS_END -->
