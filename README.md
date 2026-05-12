@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [markdown_docusaurus_plugin](https://github.com/FlyNumber/markdown_docusaurus_plugin) | A lightweight Docusaurus plugin that exposes your /docs Markdown files as raw .md URLs. (For LLM's and such) |
 | [design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 | [gemini-cloud-assist-mcp](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp) | An MCP Server for Gemini Cloud Assist; provides tools to assist with your tasks on GCP |
 | [not-paid](https://github.com/kleampa/not-paid) | Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents |
 | [visual-effect](https://github.com/kitlangton/visual-effect) | Interactive Effect Visualizations |
 | [payload](https://github.com/payloadcms/payload) | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. |
-| [DAWN](https://github.com/berlin-open-wireless-lab/DAWN) | Decentralized WiFi Controller |
 <!-- LATEST_STARRED_REPOS_END -->
