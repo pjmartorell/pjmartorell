@@ -77,6 +77,9 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
+| [t3code](https://github.com/pingdotgg/t3code) |  |
+| [openclacky](https://github.com/clacky-ai/openclacky) | The most Token-efficient open-source AI Agent |
 | [markdown_docusaurus_plugin](https://github.com/FlyNumber/markdown_docusaurus_plugin) | A lightweight Docusaurus plugin that exposes your /docs Markdown files as raw .md URLs. (For LLM's and such) |
 | [design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 | [gemini-cloud-assist-mcp](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp) | An MCP Server for Gemini Cloud Assist; provides tools to assist with your tasks on GCP |
@@ -124,7 +127,4 @@ Tools and technologies I've played with..
 | [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
 | [context7](https://github.com/upstash/context7) | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors |
 | [inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers |
-| [agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents |
-| [visual-effect](https://github.com/kitlangton/visual-effect) | Interactive Effect Visualizations |
-| [payload](https://github.com/payloadcms/payload) | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. |
 <!-- LATEST_STARRED_REPOS_END -->
