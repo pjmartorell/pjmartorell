@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. |
 | [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
 | [t3code](https://github.com/pingdotgg/t3code) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [maxheadbox](https://github.com/syxanash/maxheadbox) | Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi |
 | [magnus](https://github.com/matsadler/magnus) | Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust. |
 | [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
-| [context7](https://github.com/upstash/context7) | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors |
 <!-- LATEST_STARRED_REPOS_END -->
