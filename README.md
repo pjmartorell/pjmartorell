@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP |
 | [agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. |
 | [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [cookbook](https://github.com/google-gemma/cookbook) | A collection of guides and examples for the Gemma open models from Google. |
 | [maxheadbox](https://github.com/syxanash/maxheadbox) | Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi |
 | [magnus](https://github.com/matsadler/magnus) | Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust. |
-| [selling-partner-api-sdk](https://github.com/amzn/selling-partner-api-sdk) | The official SDK for Amazon Selling Partner API |
 <!-- LATEST_STARRED_REPOS_END -->
