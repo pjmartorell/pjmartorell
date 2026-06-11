@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [shell-ai](https://github.com/Deltik/shell-ai) | Describe tasks. Get shell commands. Explain confusing ones. Rust CLI, multiple AI providers, any language. |
 | [experience-platform-postman-samples](https://github.com/adobe/experience-platform-postman-samples) |  |
 | [webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP |
 | [agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. |
 | [gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 | [cookbook](https://github.com/google-gemma/cookbook) | A collection of guides and examples for the Gemma open models from Google. |
-| [maxheadbox](https://github.com/syxanash/maxheadbox) | Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi |
 <!-- LATEST_STARRED_REPOS_END -->
