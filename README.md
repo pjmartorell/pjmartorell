@@ -82,7 +82,7 @@ Tools and technologies I've played with..
 | [experience-platform-postman-samples](https://github.com/adobe/experience-platform-postman-samples) |  |
 | [webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP |
 | [agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
-| [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. |
+| [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. |
 | [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
 | [t3code](https://github.com/pingdotgg/t3code) |  |
 | [openclacky](https://github.com/clacky-ai/openclacky) | The most Token-efficient open-source AI Agent |
