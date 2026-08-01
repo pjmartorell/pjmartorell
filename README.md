@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md |
+| [GitSync](https://github.com/ViscousPot/GitSync) | Mobile Git client for syncing a repository between remote and a local directory |
 | [voice-agent-platform](https://github.com/adriablancafort/voice-agent-platform) | The Open Source Voice Agent Platform |
 | [shell-ai](https://github.com/Deltik/shell-ai) | Describe tasks. Get shell commands. Explain confusing ones. Rust CLI, multiple AI providers, any language. |
 | [experience-platform-postman-samples](https://github.com/adobe/experience-platform-postman-samples) |  |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [composio](https://github.com/ComposioHQ/composio) | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. |
 | [atlassian-rovo-source-code-z80-dump](https://github.com/ghuntley/atlassian-rovo-source-code-z80-dump) | Complete reverse engineering of Atlassian ACLI Rovo Dev binary - extracted source code, system prompts, and technical analysis |
 | [open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. |
-| [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. |
-| [gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 <!-- LATEST_STARRED_REPOS_END -->
