@@ -77,6 +77,8 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [openGym](https://github.com/arvids-unavailable/openGym) | https://github.com/DuarteSantos8/openGym |
+| [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
 | [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. |
 | [FloatTrip](https://github.com/shouzhuoshouzhuo/FloatTrip) | A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation. |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents |
@@ -125,6 +127,4 @@ Tools and technologies I've played with..
 | [mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS |
 | [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | Specialized AI skills, agents, rules and hooks for modern Rails AI driven-development + Spec-Driven-Development kit + MCP |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI |
-| [htmldocs](https://github.com/htmldocs-js/htmldocs) | The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind |
-| [tweakcn](https://github.com/jnsahaj/tweakcn) | A visual no-code theme editor for shadcn/ui components |
 <!-- LATEST_STARRED_REPOS_END -->
