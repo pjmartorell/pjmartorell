@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [4DAnyone](https://github.com/ant-research/4DAnyone) | [SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video |
 | [OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). |
 | [openGym](https://github.com/arvids-unavailable/openGym) | https://github.com/DuarteSantos8/openGym |
 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
@@ -85,7 +86,7 @@ Tools and technologies I've played with..
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents |
 | [obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md |
 | [GitSync](https://github.com/ViscousPot/GitSync) | Mobile Git client for syncing a repository between remote and a local directory |
-| [voice-agent-platform](https://github.com/adriablancafort/voice-agent-platform) | The Open Source Voice Agent Platform |
+| [phoneflow](https://github.com/getphoneflow/phoneflow) | The Open Source Voice Agent Platform |
 | [shell-ai](https://github.com/Deltik/shell-ai) | Describe tasks. Get shell commands. Explain confusing ones. Rust CLI, multiple AI providers, any language. |
 | [experience-platform-postman-samples](https://github.com/adobe/experience-platform-postman-samples) |  |
 | [webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [Harmony-Music](https://github.com/anandnet/Harmony-Music) | A cross platform App for streaming Music |
 | [server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. |
 | [mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS |
-| [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | Specialized AI skills, agents, rules and hooks for modern Rails AI driven-development + Spec-Driven-Development kit + MCP |
 <!-- LATEST_STARRED_REPOS_END -->
