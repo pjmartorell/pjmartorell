@@ -79,7 +79,7 @@ Tools and technologies I've played with..
 |------------|-------------|
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 | [4DAnyone](https://github.com/ant-research/4DAnyone) | [SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video |
-| [OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). |
+| [OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js). |
 | [openGym](https://github.com/arvids-unavailable/openGym) | https://github.com/DuarteSantos8/openGym |
 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
 | [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. |
