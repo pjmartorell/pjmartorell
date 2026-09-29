@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical |
 | [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [cdmon-mcp](https://github.com/OpusProjects/cdmon-mcp) | Unofficial MCP server and CLI for deploying files and running SQL on cdmon shared hosting |
 | [Compositor](https://github.com/robbietilton/Compositor) | The Photoshop alternative for Mac |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [copilot-sdk](https://github.com/github/copilot-sdk) | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | [cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) | MCP server to deploy apps to Cloud Run |
 | [web-quality-skills](https://github.com/addyosmani/web-quality-skills) | Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. |
-| [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source. |
 <!-- LATEST_STARRED_REPOS_END -->
