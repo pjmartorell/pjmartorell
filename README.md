@@ -77,6 +77,9 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [which-ai](https://github.com/SunkenInTime/which-ai) |  |
+| [skills](https://github.com/anthropics/skills) | Public repository for Agent Skills |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  |
 | [assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
 | [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical |
 | [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
@@ -124,7 +127,4 @@ Tools and technologies I've played with..
 | [agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. |
 | [adk-recipes](https://github.com/google/adk-recipes) | A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK) |
 | [kohya_ss](https://github.com/bmaltais/kohya_ss) |  |
-| [A2A](https://github.com/a2aproject/A2A) | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
-| [copilot-sdk](https://github.com/github/copilot-sdk) | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) | MCP server to deploy apps to Cloud Run |
 <!-- LATEST_STARRED_REPOS_END -->
