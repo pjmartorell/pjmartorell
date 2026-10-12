@@ -77,6 +77,9 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M |
+| [chatterbox](https://github.com/resemble-ai/chatterbox) | SoTA open-source TTS |
+| [robotics-samples](https://github.com/google-gemini/robotics-samples) |  |
 | [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [which-ai](https://github.com/SunkenInTime/which-ai) |  |
 | [skills](https://github.com/anthropics/skills) | Public repository for Agent Skills |
@@ -124,7 +127,4 @@ Tools and technologies I've played with..
 | [knowledge-rag](https://github.com/lyonzin/knowledge-rag) | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external servers, zero API keys. |
 | [spinel](https://github.com/matz/spinel) | Ruby AOT compiler |
 | [skills](https://github.com/android/skills) |  |
-| [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
-| [agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. |
-| [adk-recipes](https://github.com/google/adk-recipes) | A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK) |
 <!-- LATEST_STARRED_REPOS_END -->
