@@ -83,7 +83,7 @@ Tools and technologies I've played with..
 | [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [which-ai](https://github.com/SunkenInTime/which-ai) |  |
 | [skills](https://github.com/anthropics/skills) | Public repository for Agent Skills |
-| [taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
 | [assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
 | [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical |
 | [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
