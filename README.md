@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
 | [kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M |
 | [chatterbox](https://github.com/resemble-ai/chatterbox) | SoTA open-source TTS |
 | [robotics-samples](https://github.com/google-gemini/robotics-samples) |  |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides  |
 | [knowledge-rag](https://github.com/lyonzin/knowledge-rag) | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external servers, zero API keys. |
 | [spinel](https://github.com/matz/spinel) | Ruby AOT compiler |
-| [skills](https://github.com/android/skills) |  |
 <!-- LATEST_STARRED_REPOS_END -->
