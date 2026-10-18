@@ -101,7 +101,7 @@ Tools and technologies I've played with..
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents |
 | [obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md |
 | [GitSync](https://github.com/ViscousPot/GitSync) | Mobile Git client for syncing a repository between remote and a local directory |
-| [phoneflow](https://github.com/getphoneflow/phoneflow) | The Open Source Voice Agent Platform |
+| [phoneflow](https://github.com/getphoneflow/phoneflow) | The Open Source Voice Agent Platform - Build voice agents by connecting nodes in a canvas, deploy them to handle inbound and outbound phone calls, and monitor every call, latency and cost. |
 | [shell-ai](https://github.com/Deltik/shell-ai) | Describe tasks. Get shell commands. Explain confusing ones. Rust CLI, multiple AI providers, any language. |
 | [experience-platform-postman-samples](https://github.com/adobe/experience-platform-postman-samples) |  |
 | [webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP |
