@@ -90,7 +90,7 @@ Tools and technologies I've played with..
 | [assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
 | [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical |
 | [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
-| [cdmon-mcp](https://github.com/OpusProjects/cdmon-mcp) | Unofficial MCP server and CLI for deploying files and running SQL on cdmon shared hosting |
+| [cdmon-mcp](https://github.com/blaipr/cdmon-mcp) | Unofficial MCP server and CLI for deploying files and running SQL on cdmon shared hosting |
 | [Compositor](https://github.com/robbietilton/Compositor) | The Photoshop alternative for Mac |
 | [artemis](https://github.com/google/artemis) | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
