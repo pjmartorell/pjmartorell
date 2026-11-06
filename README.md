@@ -111,7 +111,7 @@ Tools and technologies I've played with..
 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. |
 | [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
 | [t3code](https://github.com/pingdotgg/t3code) |  |
-| [openclacky](https://github.com/clacky-ai/openclacky) | The most Token-efficient open-source AI Agent |
+| [openclacky](https://github.com/clacky-ai/openclacky) | The Most Token-Efficient Lightweight AI Agent |
 | [markdown_docusaurus_plugin](https://github.com/FlyNumber/markdown_docusaurus_plugin) | A lightweight Docusaurus plugin that exposes your /docs Markdown files as raw .md URLs. (For LLM's and such) |
 | [design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 | [gemini-cloud-assist-mcp](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp) | An MCP Server for Gemini Cloud Assist; provides tools to assist with your tasks on GCP |
