@@ -109,7 +109,7 @@ Tools and technologies I've played with..
 | [agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. |
 | [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
-| [t3code](https://github.com/pingdotgg/t3code) |  |
+| [t3code](https://github.com/pingdotgg/t3code) | The best way to control Claude Code, Codex and more from any computer or phone |
 | [openclacky](https://github.com/clacky-ai/openclacky) | The Most Token-Efficient Lightweight AI Agent |
 | [markdown_docusaurus_plugin](https://github.com/FlyNumber/markdown_docusaurus_plugin) | A lightweight Docusaurus plugin that exposes your /docs Markdown files as raw .md URLs. (For LLM's and such) |
 | [design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
