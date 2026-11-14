@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [demolab](https://github.com/google-gemini/demolab) | Skills, prompts, and scripts used to build and reproduce Gemini model demos |
 | [runonweb.ai](https://github.com/midudev/runonweb.ai) | SDK to use local models on web easy |
 | [openui](https://github.com/thesysdev/openui) | The Open Standard for Generative UI |
 | [OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
@@ -95,7 +96,7 @@ Tools and technologies I've played with..
 | [artemis](https://github.com/google/artemis) | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 | [4DAnyone](https://github.com/ant-research/4DAnyone) | [SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video |
-| [OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js). |
+| [OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js). |
 | [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
 | [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. |
 | [FloatTrip](https://github.com/shouzhuoshouzhuo/FloatTrip) | A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation. |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 | [cursor-marketplace-lib](https://github.com/loyalguru/cursor-marketplace-lib) |  |
 | [mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides  |
-| [knowledge-rag](https://github.com/lyonzin/knowledge-rag) | Local RAG server for Claude Code, Cursor and other MCP clients: hybrid BM25 + vector search with cross-encoder reranking on by default, 13 MCP tools, 33 file types including code, re-indexing on file changes. One Python process with embedded ChromaDB and FastEmbed ONNX: no Docker, database server or API key; offline after the first model download. |
 <!-- LATEST_STARRED_REPOS_END -->
