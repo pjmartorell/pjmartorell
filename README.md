@@ -80,7 +80,7 @@ Tools and technologies I've played with..
 | [demolab](https://github.com/google-gemini/demolab) | Skills, prompts, and scripts used to build and reproduce Gemini model demos |
 | [runonweb.ai](https://github.com/midudev/runonweb.ai) | SDK to use local models on web easy |
 | [openui](https://github.com/thesysdev/openui) | The Open Standard for Generative UI |
-| [OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
+| [OpenBot](https://github.com/CopilotKit/OpenBot) | The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool. |
 | [kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M |
 | [chatterbox](https://github.com/resemble-ai/chatterbox) | SoTA open-source TTS |
 | [robotics-samples](https://github.com/google-gemini/robotics-samples) |  |
