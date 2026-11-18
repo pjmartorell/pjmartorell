@@ -107,7 +107,6 @@ Tools and technologies I've played with..
 | [shell-ai](https://github.com/Deltik/shell-ai) | Describe tasks. Get shell commands. Explain confusing ones. Rust CLI, multiple AI providers, any language. |
 | [experience-platform-postman-samples](https://github.com/adobe/experience-platform-postman-samples) |  |
 | [webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP |
-| [agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. |
 | [hifumi-dev](https://github.com/pstrzalk/hifumi-dev) |  |
 | [t3code](https://github.com/pingdotgg/t3code) | The best way to control Claude Code, Codex and more from any computer or phone |
@@ -127,4 +126,5 @@ Tools and technologies I've played with..
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 | [cursor-marketplace-lib](https://github.com/loyalguru/cursor-marketplace-lib) |  |
 | [mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides  |
+| [knowledge-rag](https://github.com/lyonzin/knowledge-rag) | Local RAG server for Claude Code, Cursor and other MCP clients: hybrid BM25 + vector search with cross-encoder reranking on by default, 13 MCP tools, 33 file types including code, re-indexing on file changes. One Python process with embedded ChromaDB and FastEmbed ONNX: no Docker, database server or API key; offline after the first model download. |
 <!-- LATEST_STARRED_REPOS_END -->
