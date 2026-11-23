@@ -77,6 +77,7 @@ Tools and technologies I've played with..
 
 | Repository | Description |
 |------------|-------------|
+| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | Keep your coding agent up to date with the latest web best practices |
 | [demolab](https://github.com/google-gemini/demolab) | Skills, prompts, and scripts used to build and reproduce Gemini model demos |
 | [runonweb.ai](https://github.com/midudev/runonweb.ai) | SDK to use local models on web easy |
 | [openui](https://github.com/thesysdev/openui) | The Open Standard for Generative UI |
@@ -126,5 +127,4 @@ Tools and technologies I've played with..
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 | [cursor-marketplace-lib](https://github.com/loyalguru/cursor-marketplace-lib) |  |
 | [mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides  |
-| [knowledge-rag](https://github.com/lyonzin/knowledge-rag) | Local RAG server for Claude Code, Cursor and other MCP clients: hybrid BM25 + vector search with cross-encoder reranking on by default, 13 MCP tools, 33 file types including code, re-indexing on file changes. One Python process with embedded ChromaDB and FastEmbed ONNX: no Docker, database server or API key; offline after the first model download. |
 <!-- LATEST_STARRED_REPOS_END -->
